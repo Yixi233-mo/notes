@@ -39,6 +39,15 @@ if (!kbs.length && fs.existsSync(repoKBList)) {
   kbs = parseKB(fs.readFileSync(repoKBList, 'utf-8'));
 }
 
+// 3. CI 环境变量覆盖（GitHub Secrets 优先于 kblist.txt 占位符）
+if (process.env.YUQUE_LOGIN && process.env.YUQUE_REPO && process.env.YUQUE_TOKEN) {
+  const ciName = process.env.YUQUE_KB_NAME || kbs[0]?.name || '默认知识库';
+  // 检查是否已有同名 KB，没有则添加
+  if (!kbs.find(k => k.login === process.env.YUQUE_LOGIN)) {
+    kbs = [{ name: ciName, login: process.env.YUQUE_LOGIN, repo: process.env.YUQUE_REPO }, ...kbs.filter(k => k.login !== 'your_yuque_login')];
+  }
+}
+
 if (!kbs.length) { console.log('No KB configured.'); process.exit(0); }
 if (!token) { console.error('YUQUE_TOKEN not found!'); process.exit(1); }
 
