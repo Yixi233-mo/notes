@@ -1,0 +1,52 @@
+name: Sync & Deploy
+
+on:
+  schedule:
+    # 每天北京时间凌晨2点 (UTC 18:00)
+    - cron: '0 18 * * *'
+  # 允许手动触发
+  workflow_dispatch:
+
+jobs:
+  sync-and-deploy:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 设置 Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: 安装依赖
+        run: npm install
+
+      - name: 从语雀同步文章
+        env:
+          YUQUE_TOKEN: ${{ secrets.YUQUE_TOKEN }}
+          YUQUE_LOGIN: ${{ secrets.YUQUE_LOGIN }}
+          YUQUE_REPO: ${{ secrets.YUQUE_REPO }}
+        run: npm run elog:sync
+
+      - name: 提交同步更新
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add docs/docs/ docs/images/ elog.cache.json 2>/dev/null || true
+          git diff --staged --quiet || (git commit -m "🔄 自动同步语雀文章" && git push)
+
+      - name: 构建 VitePress
+        run: npm run docs:build
+
+      - name: 部署到 GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: docs/.vitepress/dist

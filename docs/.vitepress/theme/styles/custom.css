@@ -1,0 +1,145 @@
+/* ========================================
+   Python 学习笔记 - 自定义花主题
+   ======================================== */
+
+/* --- 品牌色：蓝紫渐变 --- */
+:root {
+  --vp-c-brand-1: #6c63ff;
+  --vp-c-brand-2: #8b83ff;
+  --vp-c-brand-3: #a89fff;
+  --vp-c-brand-soft: rgba(108, 99, 255, 0.14);
+
+  /* 更柔和的背景色 */
+  --vp-c-bg-soft: #f8f7ff;
+  --vp-c-bg-soft-up: #f0eeff;
+  --vp-c-bg-soft-down: #e8e5ff;
+
+  /* 代码块 */
+  --vp-code-block-bg: #1e1e2e;
+  --vp-code-line-height: 1.7;
+}
+
+/* 暗色模式 */
+.dark {
+  --vp-c-brand-1: #a78bfa;
+  --vp-c-brand-2: #c4b5fd;
+  --vp-c-brand-3: #ddd6fe;
+  --vp-c-brand-soft: rgba(167, 139, 250, 0.16);
+  --vp-c-bg-soft: #1a1a2e;
+  --vp-code-block-bg: #16162a;
+}
+
+/* --- Hero 标题渐变色 --- */
+.VPHero .name {
+  background: linear-gradient(135deg, #6c63ff 0%, #e91e63 50%, #ff9800 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 800;
+}
+
+.dark .VPHero .name {
+  background: linear-gradient(135deg, #a78bfa 0%, #f472b6 50%, #fbbf24 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+
+/* Hero 副标题 */
+.VPHero .text {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: var(--vp-c-text-1);
+}
+
+/* Hero 按钮 */
+.VPHero .VPButton.brand {
+  background: linear-gradient(135deg, #6c63ff, #8b83ff);
+  border: none;
+  transition: all 0.3s ease;
+}
+.VPHero .VPButton.brand:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 16px rgba(108, 99, 255, 0.4);
+}
+
+/* --- 导航栏 --- */
+.VPNav {
+  backdrop-filter: blur(10px);
+  background: rgba(255, 255, 255, 0.85);
+}
+.dark .VPNav {
+  background: rgba(26, 26, 46, 0.85);
+}
+
+/* --- 侧边栏 --- */
+.VPSidebarItem .item .link.active {
+  background: linear-gradient(90deg, rgba(108, 99, 255, 0.1), transparent);
+  border-left: 3px solid var(--vp-c-brand-1);
+  padding-left: 13px;
+}
+
+/* --- 内容排版 --- */
+.vp-doc h1 { font-size: 2rem; font-weight: 800; }
+.vp-doc h2 { font-size: 1.5rem; font-weight: 700; border-bottom: 2px solid var(--vp-c-divider); padding-bottom: 6px; margin-top: 32px; }
+.vp-doc h3 { font-size: 1.25rem; font-weight: 600; }
+
+/* 代码块圆角 */
+.vp-doc div[class*='language-'] {
+  border-radius: 10px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+}
+
+/* 行内代码 */
+.vp-doc code {
+  background: var(--vp-c-brand-soft);
+  color: var(--vp-c-brand-1);
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.9em;
+}
+
+/* --- 表格美化 --- */
+.vp-doc table {
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+}
+.vp-doc th {
+  background: var(--vp-c-brand-1);
+  color: white;
+  font-weight: 600;
+}
+.vp-doc tr:nth-child(even) {
+  background: var(--vp-c-bg-soft);
+}
+
+/* --- 卡片效果（Features 区） --- */
+.VPFeature {
+  border-radius: 12px;
+  transition: all 0.3s ease;
+  border: 1px solid var(--vp-c-divider);
+}
+.VPFeature:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+  border-color: var(--vp-c-brand-1);
+}
+
+/* --- 页脚 --- */
+.VPFooter {
+  border-top: 1px solid var(--vp-c-divider);
+}
+
+/* --- 滚动条 --- */
+::-webkit-scrollbar { width: 8px; }
+::-webkit-scrollbar-track { background: var(--vp-c-bg-soft); }
+::-webkit-scrollbar-thumb {
+  background: var(--vp-c-brand-3);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover { background: var(--vp-c-brand-1); }
+
+/* --- 自定义容器（提示框） --- */
+.vp-doc .custom-block {
+  border-radius: 10px;
+}
