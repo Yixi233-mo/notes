@@ -2,37 +2,37 @@
 layout: home
 
 hero:
-  name: "Python 学习笔记"
-  text: "从零开始学 Python"
-  tagline: 语雀编写，每日更新，自动同步
+  name: "屹兮の摸鱼 AI 日记"
+  text: "今天模型又过拟合了，先摸个鱼再说"
+  tagline: 语雀编写 ｜ 自动同步 ｜ 每天凌晨 2 点更新
   image:
     src: /favicon.ico
-    alt: Python
+    alt: AI
   actions:
     - theme: brand
-      text: 📖 开始学习
-      link: /docs/1.计算机组成
+      text: 📖 开始摸鱼
+      link: /docs/Python 学习笔记/1.计算机组成
     - theme: alt
       text: ⭐ GitHub
-      link: https://github.com
+      link: https://github.com/Yixi233-mo
 
 features:
-  - icon: 📝
-    title: 语雀写作
-    details: 用最舒适的 Markdown 编辑器写笔记，随时随地记录学习心得
+  - icon: 🐟
+    title: 摸鱼式学习
+    details: 每天摸一条 AI 知识，不知不觉就学完了
+  - icon: 🤖
+    title: AI 驱动
+    details: 用 AI 工具辅助学习和写作，效率翻倍
   - icon: 🔄
     title: 自动同步
-    details: 每天凌晨 2 点自动从语雀拉取最新文章，无需手动操作
+    details: 语雀写完自动部署，真正的躺平式更新
   - icon: 🎨
-    title: 阅读优先
-    details: 清爽排版，代码高亮，专注阅读体验
+    title: 好看就完了
+    details: 渐变标题 + 毛玻璃 + 暗色模式，视觉舒适
   - icon: 🔍
     title: 全文搜索
-    details: 本地搜索引擎，快捷键一键定位知识点
-  - icon: 📱
-    title: 响应式设计
-    details: 电脑、平板、手机都能获得良好阅读体验
+    details: 按 / 键快速搜索，找什么都会
   - icon: 🚀
-    title: 持续更新
-    details: 13 章完整 Python 教程，从基础到高级，持续补充中
+    title: 持续摸鱼
+    details: 41 篇 Python + 更多知识库持续加入中
 ---

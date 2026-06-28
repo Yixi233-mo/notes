@@ -3,8 +3,8 @@ import { genYuqueSideBar } from "../../utils/route"
 
 export default defineConfig({
   lang: "zh-CN",
-  title: "学习笔记",
-  description: "多知识库学习笔记，语雀编写，自动同步部署",
+  title: "屹兮の摸鱼 AI 日记",
+  description: "今天模型又过拟合了，先摸个鱼再说 | 语雀编写，自动同步",
   lastUpdated: true,
   base: '/python-notes/',
   cleanUrls: true,
