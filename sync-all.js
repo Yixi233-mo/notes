@@ -1,14 +1,14 @@
 /**
  * 多知识库同步脚本
- * 自动读取 ../配置.txt，逐个同步
+ * 自动读取 ../config.txt，逐个同步
  */
 const fs = require('fs');
 const path = require('path');
 const { execSync } = require('child_process');
 
-const configPath = path.join(__dirname, '..', '配置.txt');
+const configPath = path.join(__dirname, '..', 'config.txt');
 if (!fs.existsSync(configPath)) {
-  console.log('配置.txt not found');
+  console.log('config.txt not found');
   process.exit(0);
 }
 
@@ -26,7 +26,7 @@ for (let i = 1; i < sections.length; i += 2) {
 }
 
 if (!kbs.length) { console.log('No KB configured.'); process.exit(0); }
-if (!token) { console.error('TOKEN not found in 配置.txt!'); process.exit(1); }
+if (!token) { console.error('TOKEN not found in config.txt!'); process.exit(1); }
 
 console.log(`=== Syncing ${kbs.length} knowledge base(s) ===\n`);
 
