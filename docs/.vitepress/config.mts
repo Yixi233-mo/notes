@@ -38,6 +38,7 @@ export default defineConfig({
       { text: '🏠 首页', link: '/' },
       { text: '📚 全部笔记', link: '/docs/1.计算机组成', activeMatch: '/docs/' },
       { text: '📖 关于', link: '/about' },
+      { text: '⚙️ 管理', link: '/admin' },
     ],
     sidebar: {
       "/docs/": await genYuqueSideBar('/docs'),
