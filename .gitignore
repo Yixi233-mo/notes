@@ -132,3 +132,5 @@ dist
 .elog.env
 docs/.vitepress/dist
 docs/.vitepress/cache
+.cache/
+D:/claude_code/project_02/配置.txt

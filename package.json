@@ -4,6 +4,7 @@
   "description": "语雀 + Elog + VitePress + GitHub Actions + Vercel 文档站点解决方案",
   "main": "index.js",
   "scripts": {
+    "sync:all": "node sync-all.js",
     "elog:sync-local": "elog sync -e .elog.env",
     "elog:sync": "elog sync",
     "elog:clean": "elog clean",

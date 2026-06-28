@@ -19,17 +19,17 @@ jobs:
       - uses: actions/setup-node@v4
         with: { node-version: '18' }
       - run: npm install
-      - name: Sync from Yuque
+      - name: Sync all knowledge bases
         env:
           YUQUE_TOKEN: ${{ secrets.YUQUE_TOKEN }}
           YUQUE_LOGIN: ${{ secrets.YUQUE_LOGIN }}
           YUQUE_REPO: ${{ secrets.YUQUE_REPO }}
-        run: npm run elog:sync
+        run: npm run sync:all
       - name: Commit sync
         run: |
           git config user.name "Actions" && git config user.email "actions@github.com"
-          git add docs/docs/ docs/images/ elog.cache.json 2>/dev/null || true
-          git diff --staged --quiet || (git commit -m "sync" && git push)
+          git add docs/docs/ docs/images/ .cache/ 2>/dev/null || true
+          git diff --staged --quiet || (git commit -m "auto sync" && git push)
       - run: npm run docs:build
       - uses: actions/configure-pages@v4
       - uses: actions/upload-pages-artifact@v3

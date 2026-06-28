@@ -1,7 +1,6 @@
 module.exports = {
   write: {
     platform: 'yuque',
-    // Token 模式（需要语雀超级会员）
     yuque: {
       token: process.env.YUQUE_TOKEN,
       login: process.env.YUQUE_LOGIN,
@@ -9,7 +8,6 @@ module.exports = {
       onlyPublic: false,
       onlyPublished: true,
     },
-    // 账号密码模式
     "yuque-pwd": {
       username: process.env.YUQUE_USERNAME,
       password: process.env.YUQUE_PASSWORD,
@@ -20,7 +18,8 @@ module.exports = {
   deploy: {
     platform: 'local',
     local: {
-      outputDir: './docs/docs',
+      // 通过环境变量 YUQUE_OUTPUT_DIR 控制输出目录，默认 docs/docs
+      outputDir: process.env.YUQUE_OUTPUT_DIR || './docs/docs',
       filename: 'title',
       format: 'markdown',
       catalog: true,
@@ -31,7 +30,7 @@ module.exports = {
     enable: true,
     platform: 'local',
     local: {
-      outputDir: './docs/images',
+      outputDir: process.env.YUQUE_IMAGE_DIR || './docs/images',
       pathFollowDoc: true,
     }
   }
