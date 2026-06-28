@@ -6,27 +6,41 @@ const fs = require('fs');
 const path = require('path');
 const { execSync } = require('child_process');
 
-const configPath = path.join(__dirname, '..', 'config.txt');
-if (!fs.existsSync(configPath)) {
-  console.log('config.txt not found');
-  process.exit(0);
+const localConfig = path.join(__dirname, '..', 'config.txt');  // 本地：含 Token + KB
+const repoKBList = path.join(__dirname, 'kblist.txt');          // CI： 仅 KB 列表
+
+let token = process.env.YUQUE_TOKEN;
+let kbs = [];
+
+// 解析 KB 列表（名称 | Login | Repo）
+function parseKB(text) {
+  return text.split('\n').map(l => l.trim())
+    .filter(l => l && !l.startsWith('#') && l.includes('|'))
+    .map(l => l.split('|').map(s => s.trim()))
+    .filter(p => p.length >= 3)
+    .map(p => ({ name: p[0], login: p[1], repo: p[2] }));
 }
 
-// 解析配置：TOKEN + [知识库名] / LOGIN / REPO
-const raw = fs.readFileSync(configPath, 'utf-8');
-const token = (raw.match(/^TOKEN[：:]\s*(.+)$/m) || [])[1]?.trim();
-const sections = raw.split(/^\[(.+)\]$/gm);
-const kbs = [];
-for (let i = 1; i < sections.length; i += 2) {
-  const name = sections[i].trim();
-  const body = sections[i + 1] || '';
-  const login = (body.match(/^LOGIN[：:]\s*(.+)$/m) || [])[1]?.trim();
-  const repo = (body.match(/^REPO[：:]\s*(.+)$/m) || [])[1]?.trim();
-  if (login && repo) kbs.push({ name, login, repo });
+// 1. 本地 config.txt（有 Token + KB）
+if (fs.existsSync(localConfig)) {
+  const raw = fs.readFileSync(localConfig, 'utf-8');
+  token = token || (raw.match(/^TOKEN[：:]\s*(.+)$/m) || [])[1]?.trim();
+  const secs = raw.split(/^\[(.+)\]$/gm);
+  for (let i = 1; i < secs.length; i += 2) {
+    const body = secs[i + 1] || '';
+    const login = (body.match(/^LOGIN[：:]\s*(.+)$/m) || [])[1]?.trim();
+    const repo = (body.match(/^REPO[：:]\s*(.+)$/m) || [])[1]?.trim();
+    if (login && repo) kbs.push({ name: secs[i].trim(), login, repo });
+  }
+}
+
+// 2. 回退：CI 环境用 kblist.txt
+if (!kbs.length && fs.existsSync(repoKBList)) {
+  kbs = parseKB(fs.readFileSync(repoKBList, 'utf-8'));
 }
 
 if (!kbs.length) { console.log('No KB configured.'); process.exit(0); }
-if (!token) { console.error('TOKEN not found in config.txt!'); process.exit(1); }
+if (!token) { console.error('YUQUE_TOKEN not found!'); process.exit(1); }
 
 console.log(`=== Syncing ${kbs.length} knowledge base(s) ===\n`);
 
