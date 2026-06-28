@@ -6,7 +6,7 @@ export default defineConfig({
   title: "屹兮の摸鱼 AI 日记",
   description: "今天模型又过拟合了，先摸个鱼再说 | 语雀编写，自动同步",
   lastUpdated: true,
-  base: '/python-notes/',
+  base: '/notes/',
   cleanUrls: true,
   ignoreDeadLinks: true,
   head: [

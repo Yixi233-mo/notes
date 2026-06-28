@@ -22,8 +22,8 @@ async function loadStatus() {
   loading.value = true
   try {
     const [commitsRes, actionsRes] = await Promise.all([
-      fetch('https://api.github.com/repos/Yixi233-mo/python-notes/commits?per_page=1'),
-      fetch('https://api.github.com/repos/Yixi233-mo/python-notes/actions/runs?per_page=3')
+      fetch('https://api.github.com/repos/Yixi233-mo/notes/commits?per_page=1'),
+      fetch('https://api.github.com/repos/Yixi233-mo/notes/actions/runs?per_page=3')
     ])
     if (commitsRes.ok) {
       const commits = await commitsRes.json()
@@ -72,7 +72,7 @@ async function triggerSync() {
   triggerResult.value = ''
   try {
     const res = await fetch(
-      'https://api.github.com/repos/Yixi233-mo/python-notes/actions/workflows/deploy.yml/dispatches',
+      'https://api.github.com/repos/Yixi233-mo/notes/actions/workflows/deploy.yml/dispatches',
       {
         method: 'POST',
         headers: {
@@ -245,7 +245,7 @@ onMounted(loadStatus)
   </button>
   <button class="btn btn-outline" @click="refresh">🔃 刷新状态</button>
   <a class="btn btn-outline" href="https://www.yuque.com/yuqueyonghu-dg6ehw/slk2dt" target="_blank">✍️ 去语雀</a>
-  <a class="btn btn-outline" href="https://github.com/Yixi233-mo/python-notes" target="_blank">📁 仓库</a>
+  <a class="btn btn-outline" href="https://github.com/Yixi233-mo/notes" target="_blank">📁 仓库</a>
 </div>
 <div :class="['msg', triggerResult.startsWith('✅') ? 'ok' : triggerResult.startsWith('❌') ? 'err' : '']" v-if="triggerResult">
   {{ triggerResult }}
@@ -291,7 +291,7 @@ onMounted(loadStatus)
   </div>
   <div style="background:var(--vp-c-bg-soft);padding:16px;border-radius:10px;border-left:3px solid #ef4444">
     <strong>🌐 博客打不开？</strong>
-    <p style="margin:4px 0 0;font-size:.85rem;color:var(--vp-c-text-2)">检查 <a href="https://github.com/Yixi233-mo/python-notes/settings/pages" target="_blank">Pages 设置</a></p>
+    <p style="margin:4px 0 0;font-size:.85rem;color:var(--vp-c-text-2)">检查 <a href="https://github.com/Yixi233-mo/notes/settings/pages" target="_blank">Pages 设置</a></p>
   </div>
   <div style="background:var(--vp-c-bg-soft);padding:16px;border-radius:10px;border-left:3px solid var(--vp-c-brand-1)">
     <strong>🔑 Token 怎么拿？</strong>

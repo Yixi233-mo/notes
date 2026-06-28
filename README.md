@@ -3,9 +3,9 @@
   <b>语雀编写 &nbsp;→&nbsp; Elog 同步 &nbsp;→&nbsp; VitePress 构建 &nbsp;→&nbsp; GitHub Pages 部署</b>
 </p>
 <p align="center">
-  <a href="https://yixi233-mo.github.io/python-notes/">📖 博客</a> •
-  <a href="https://yixi233-mo.github.io/python-notes/admin">⚙️ 管理</a> •
-  <a href="https://github.com/Yixi233-mo/python-notes/actions">🔄 Actions</a>
+  <a href="https://yixi233-mo.github.io/notes/">📖 博客</a> •
+  <a href="https://yixi233-mo.github.io/notes/admin">⚙️ 管理</a> •
+  <a href="https://github.com/Yixi233-mo/notes/actions">🔄 Actions</a>
 </p>
 
 ## ✨ 特性
@@ -30,7 +30,7 @@ npm run elog:sync-local
 npm run docs:dev
 ```
 
-打开 http://localhost:5173/python-notes/
+打开 http://localhost:5173/notes/
 
 ## 📂 项目结构
 
