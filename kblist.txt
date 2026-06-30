@@ -1,0 +1,4 @@
+# 知识库列表（格式：名称 | Login | Repo）
+# 替换为你的实际语雀知识库信息
+# Token 在 .elog.env（本地）或 GitHub Secrets（CI）配置
+Python 学习笔记 | your_yuque_login | your_yuque_repo
