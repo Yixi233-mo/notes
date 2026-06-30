@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Mizuki</title><description>One demo website</description><link>https://mizuki.mysqil.com/</link><language>en</language><item><title>Markdown Tutorial</title><link>https://mizuki.mysqil.com/posts/markdown-tutorial/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/markdown-tutorial/</guid><description>A simple example of a Markdown blog post.</description><pubDate>Mon, 20 Jan 2025 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Markdown Tutorial&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>屹兮の摸鱼 AI 日记</title><description>今天模型又过拟合了，先摸个鱼再说</description><link>https://yixi233-mo.github.io/notes/</link><language>zh_CN</language><item><title>Markdown Tutorial</title><link>https://yixi233-mo.github.io/notes/posts/markdown-tutorial/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/markdown-tutorial/</guid><description>A simple example of a Markdown blog post.</description><pubDate>Mon, 20 Jan 2025 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Markdown Tutorial&lt;/h1&gt;
 &lt;p&gt;A markdown example shows how to write a markdown file. This document integrates core syntax and extensions (GMF).&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;#block-elements&quot;&gt;Block Elements&lt;/a&gt;
@@ -708,7 +708,7 @@ This is another regular paragraph.
 &lt;strong&gt;No Work&lt;/strong&gt;
 &amp;lt;/div&amp;gt;&lt;/p&gt;
 &lt;hr /&gt;
-</content:encoded></item><item><title>📘 第10章：Python高级用法</title><link>https://mizuki.mysqil.com/posts/-%E7%AC%AC10%E7%AB%A0python%E9%AB%98%E7%BA%A7%E7%94%A8%E6%B3%95/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/-%E7%AC%AC10%E7%AB%A0python%E9%AB%98%E7%BA%A7%E7%94%A8%E6%B3%95/</guid><description>📘 第10章：Python高级用法</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;一、知识点分区与掌握程度要求&lt;/h2&gt;
+</content:encoded></item><item><title>📘 第10章：Python高级用法</title><link>https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC10%E7%AB%A0python%E9%AB%98%E7%BA%A7%E7%94%A8%E6%B3%95/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC10%E7%AB%A0python%E9%AB%98%E7%BA%A7%E7%94%A8%E6%B3%95/</guid><description>📘 第10章：Python高级用法</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;一、知识点分区与掌握程度要求&lt;/h2&gt;
 &lt;h3&gt;🔵 基础概念区 — 要求：熟悉&lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -1403,7 +1403,7 @@ if __name__ == &quot;__main__&quot;:
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</content:encoded></item><item><title>📘 第11章：进程与线程</title><link>https://mizuki.mysqil.com/posts/-%E7%AC%AC11%E7%AB%A0%E8%BF%9B%E7%A8%8B%E4%B8%8E%E7%BA%BF%E7%A8%8B/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/-%E7%AC%AC11%E7%AB%A0%E8%BF%9B%E7%A8%8B%E4%B8%8E%E7%BA%BF%E7%A8%8B/</guid><description>📘 第11章：进程与线程</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;一、知识点分区与掌握程度要求&lt;/h2&gt;
+</content:encoded></item><item><title>📘 第11章：进程与线程</title><link>https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC11%E7%AB%A0%E8%BF%9B%E7%A8%8B%E4%B8%8E%E7%BA%BF%E7%A8%8B/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC11%E7%AB%A0%E8%BF%9B%E7%A8%8B%E4%B8%8E%E7%BA%BF%E7%A8%8B/</guid><description>📘 第11章：进程与线程</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;一、知识点分区与掌握程度要求&lt;/h2&gt;
 &lt;h3&gt;🔵 基础概念区 — 要求：熟悉&lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -2013,7 +2013,7 @@ if __name__ == &quot;__main__&quot;:
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</content:encoded></item><item><title>📘 第12章：网络编程</title><link>https://mizuki.mysqil.com/posts/-%E7%AC%AC12%E7%AB%A0%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/-%E7%AC%AC12%E7%AB%A0%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/</guid><description>📘 第12章：网络编程</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;一、知识点分区与掌握程度要求&lt;/h2&gt;
+</content:encoded></item><item><title>📘 第12章：网络编程</title><link>https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC12%E7%AB%A0%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC12%E7%AB%A0%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/</guid><description>📘 第12章：网络编程</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;一、知识点分区与掌握程度要求&lt;/h2&gt;
 &lt;h3&gt;🔵 基础概念区 — 要求：熟悉&lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -2752,7 +2752,7 @@ if __name__ == &quot;__main__&quot;:
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</content:encoded></item><item><title>📘 第13章：正则表达式</title><link>https://mizuki.mysqil.com/posts/-%E7%AC%AC13%E7%AB%A0%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/-%E7%AC%AC13%E7%AB%A0%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/</guid><description>📘 第13章：正则表达式</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;一、知识点分区与掌握程度要求&lt;/h2&gt;
+</content:encoded></item><item><title>📘 第13章：正则表达式</title><link>https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC13%E7%AB%A0%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC13%E7%AB%A0%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/</guid><description>📘 第13章：正则表达式</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;一、知识点分区与掌握程度要求&lt;/h2&gt;
 &lt;h3&gt;🔵 基础概念区 — 要求：熟悉&lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -3438,7 +3438,7 @@ if __name__ == &quot;__main__&quot;:
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</content:encoded></item><item><title>📘 第1章：Python基础知识</title><link>https://mizuki.mysqil.com/posts/-%E7%AC%AC1%E7%AB%A0python%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/-%E7%AC%AC1%E7%AB%A0python%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</guid><description>📘 第1章：Python基础知识</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;一、知识点分区与掌握程度要求&lt;/h2&gt;
+</content:encoded></item><item><title>📘 第1章：Python基础知识</title><link>https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC1%E7%AB%A0python%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC1%E7%AB%A0python%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</guid><description>📘 第1章：Python基础知识</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;一、知识点分区与掌握程度要求&lt;/h2&gt;
 &lt;h3&gt;🔵 基础概念区 — 要求：熟悉&lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -4083,7 +4083,7 @@ if __name__ == &quot;__main__&quot;:
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</content:encoded></item><item><title>📘 第2章：Python流程控制</title><link>https://mizuki.mysqil.com/posts/-%E7%AC%AC2%E7%AB%A0python%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/-%E7%AC%AC2%E7%AB%A0python%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/</guid><description>📘 第2章：Python流程控制</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;一、知识点分区与掌握程度要求&lt;/h2&gt;
+</content:encoded></item><item><title>📘 第2章：Python流程控制</title><link>https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC2%E7%AB%A0python%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC2%E7%AB%A0python%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/</guid><description>📘 第2章：Python流程控制</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;一、知识点分区与掌握程度要求&lt;/h2&gt;
 &lt;h3&gt;🔵 基础概念区 — 要求：熟悉&lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -4731,7 +4731,7 @@ if __name__ == &quot;__main__&quot;:
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</content:encoded></item><item><title>📘 第3章：容器数据类型</title><link>https://mizuki.mysqil.com/posts/-%E7%AC%AC3%E7%AB%A0%E5%AE%B9%E5%99%A8%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/-%E7%AC%AC3%E7%AB%A0%E5%AE%B9%E5%99%A8%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/</guid><description>📘 第3章：容器数据类型</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;一、知识点分区与掌握程度要求&lt;/h2&gt;
+</content:encoded></item><item><title>📘 第3章：容器数据类型</title><link>https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC3%E7%AB%A0%E5%AE%B9%E5%99%A8%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC3%E7%AB%A0%E5%AE%B9%E5%99%A8%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/</guid><description>📘 第3章：容器数据类型</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;一、知识点分区与掌握程度要求&lt;/h2&gt;
 &lt;h3&gt;🔵 基础概念区 — 要求：熟悉&lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -5386,7 +5386,7 @@ if __name__ == &quot;__main__&quot;:
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</content:encoded></item><item><title>📘 第4章：函数</title><link>https://mizuki.mysqil.com/posts/-%E7%AC%AC4%E7%AB%A0%E5%87%BD%E6%95%B0/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/-%E7%AC%AC4%E7%AB%A0%E5%87%BD%E6%95%B0/</guid><description>📘 第4章：函数</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;一、知识点分区与掌握程度要求&lt;/h2&gt;
+</content:encoded></item><item><title>📘 第4章：函数</title><link>https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC4%E7%AB%A0%E5%87%BD%E6%95%B0/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC4%E7%AB%A0%E5%87%BD%E6%95%B0/</guid><description>📘 第4章：函数</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;一、知识点分区与掌握程度要求&lt;/h2&gt;
 &lt;h3&gt;🔵 基础概念区 — 要求：熟悉&lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -5976,7 +5976,7 @@ if __name__ == &quot;__main__&quot;:
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</content:encoded></item><item><title>📘 第5章：文件操作</title><link>https://mizuki.mysqil.com/posts/-%E7%AC%AC5%E7%AB%A0%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/-%E7%AC%AC5%E7%AB%A0%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C/</guid><description>📘 第5章：文件操作</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;一、知识点分区与掌握程度要求&lt;/h2&gt;
+</content:encoded></item><item><title>📘 第5章：文件操作</title><link>https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC5%E7%AB%A0%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC5%E7%AB%A0%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C/</guid><description>📘 第5章：文件操作</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;一、知识点分区与掌握程度要求&lt;/h2&gt;
 &lt;h3&gt;🔵 基础概念区 — 要求：熟悉&lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -6630,7 +6630,7 @@ if __name__ == &quot;__main__&quot;:
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</content:encoded></item><item><title>📘 第6章：面向对象之类和对象</title><link>https://mizuki.mysqil.com/posts/-%E7%AC%AC6%E7%AB%A0%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E4%B9%8B%E7%B1%BB%E5%92%8C%E5%AF%B9%E8%B1%A1/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/-%E7%AC%AC6%E7%AB%A0%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E4%B9%8B%E7%B1%BB%E5%92%8C%E5%AF%B9%E8%B1%A1/</guid><description>📘 第6章：面向对象之类和对象</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;一、知识点分区与掌握程度要求&lt;/h2&gt;
+</content:encoded></item><item><title>📘 第6章：面向对象之类和对象</title><link>https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC6%E7%AB%A0%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E4%B9%8B%E7%B1%BB%E5%92%8C%E5%AF%B9%E8%B1%A1/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC6%E7%AB%A0%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E4%B9%8B%E7%B1%BB%E5%92%8C%E5%AF%B9%E8%B1%A1/</guid><description>📘 第6章：面向对象之类和对象</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;一、知识点分区与掌握程度要求&lt;/h2&gt;
 &lt;h3&gt;🔵 基础概念区 — 要求：熟悉&lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -7299,7 +7299,7 @@ if __name__ == &quot;__main__&quot;:
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</content:encoded></item><item><title>📘 第7章：面向对象之三大特性</title><link>https://mizuki.mysqil.com/posts/-%E7%AC%AC7%E7%AB%A0%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E4%B9%8B%E4%B8%89%E5%A4%A7%E7%89%B9%E6%80%A7/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/-%E7%AC%AC7%E7%AB%A0%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E4%B9%8B%E4%B8%89%E5%A4%A7%E7%89%B9%E6%80%A7/</guid><description>📘 第7章：面向对象之三大特性</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;一、知识点分区与掌握程度要求&lt;/h2&gt;
+</content:encoded></item><item><title>📘 第7章：面向对象之三大特性</title><link>https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC7%E7%AB%A0%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E4%B9%8B%E4%B8%89%E5%A4%A7%E7%89%B9%E6%80%A7/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC7%E7%AB%A0%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E4%B9%8B%E4%B8%89%E5%A4%A7%E7%89%B9%E6%80%A7/</guid><description>📘 第7章：面向对象之三大特性</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;一、知识点分区与掌握程度要求&lt;/h2&gt;
 &lt;h3&gt;🔵 基础概念区 — 要求：熟悉&lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -8033,7 +8033,7 @@ if __name__ == &quot;__main__&quot;:
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</content:encoded></item><item><title>📘 第8章：错误与异常</title><link>https://mizuki.mysqil.com/posts/-%E7%AC%AC8%E7%AB%A0%E9%94%99%E8%AF%AF%E4%B8%8E%E5%BC%82%E5%B8%B8/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/-%E7%AC%AC8%E7%AB%A0%E9%94%99%E8%AF%AF%E4%B8%8E%E5%BC%82%E5%B8%B8/</guid><description>📘 第8章：错误与异常</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;一、知识点分区与掌握程度要求&lt;/h2&gt;
+</content:encoded></item><item><title>📘 第8章：错误与异常</title><link>https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC8%E7%AB%A0%E9%94%99%E8%AF%AF%E4%B8%8E%E5%BC%82%E5%B8%B8/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC8%E7%AB%A0%E9%94%99%E8%AF%AF%E4%B8%8E%E5%BC%82%E5%B8%B8/</guid><description>📘 第8章：错误与异常</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;一、知识点分区与掌握程度要求&lt;/h2&gt;
 &lt;h3&gt;🔵 基础概念区 — 要求：熟悉&lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -8794,7 +8794,7 @@ if __name__ == &quot;__main__&quot;:
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</content:encoded></item><item><title>📘 第9章：模块与包</title><link>https://mizuki.mysqil.com/posts/-%E7%AC%AC9%E7%AB%A0%E6%A8%A1%E5%9D%97%E4%B8%8E%E5%8C%85/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/-%E7%AC%AC9%E7%AB%A0%E6%A8%A1%E5%9D%97%E4%B8%8E%E5%8C%85/</guid><description>📘 第9章：模块与包</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;一、知识点分区与掌握程度要求&lt;/h2&gt;
+</content:encoded></item><item><title>📘 第9章：模块与包</title><link>https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC9%E7%AB%A0%E6%A8%A1%E5%9D%97%E4%B8%8E%E5%8C%85/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC9%E7%AB%A0%E6%A8%A1%E5%9D%97%E4%B8%8E%E5%8C%85/</guid><description>📘 第9章：模块与包</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;一、知识点分区与掌握程度要求&lt;/h2&gt;
 &lt;h3&gt;🔵 基础概念区 — 要求：熟悉&lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -9641,7 +9641,7 @@ if __name__ == &quot;__main__&quot;:
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</content:encoded></item><item><title>10.1封装</title><link>https://mizuki.mysqil.com/posts/101%E5%B0%81%E8%A3%85/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/101%E5%B0%81%E8%A3%85/</guid><description>10.1封装</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Python 面向对象之封装与继承学习笔记&lt;/h2&gt;
+</content:encoded></item><item><title>10.1封装</title><link>https://yixi233-mo.github.io/notes/posts/101%E5%B0%81%E8%A3%85/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/101%E5%B0%81%E8%A3%85/</guid><description>10.1封装</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Python 面向对象之封装与继承学习笔记&lt;/h2&gt;
 &lt;h3&gt;一、封装（Encapsulation）&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;封装&lt;/strong&gt;是将变量（属性）和函数（方法）写入类中的操作，将数据和对数据的操作组织在一起。&lt;/p&gt;
 &lt;table&gt;
@@ -10236,7 +10236,7 @@ class C(A, B): pass                  # 多继承
 &lt;li&gt;&lt;strong&gt;多继承&lt;/strong&gt;：子类可以继承多个父类，MRO 决定方法查找顺序&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-</content:encoded></item><item><title>10.2 继承&amp;多态</title><link>https://mizuki.mysqil.com/posts/102-%E7%BB%A7%E6%89%BF%E5%A4%9A%E6%80%81/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/102-%E7%BB%A7%E6%89%BF%E5%A4%9A%E6%80%81/</guid><description>10.2 继承&amp;多态</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Python 继承与多态学习笔记&lt;/h2&gt;
+</content:encoded></item><item><title>10.2 继承&amp;多态</title><link>https://yixi233-mo.github.io/notes/posts/102-%E7%BB%A7%E6%89%BF%E5%A4%9A%E6%80%81/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/102-%E7%BB%A7%E6%89%BF%E5%A4%9A%E6%80%81/</guid><description>10.2 继承&amp;多态</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Python 继承与多态学习笔记&lt;/h2&gt;
 &lt;h3&gt;一、单继承&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;单继承&lt;/strong&gt;是指子类只继承一个父类。&lt;/p&gt;
 &lt;h4&gt;1.1 语法&lt;/h4&gt;
@@ -10745,7 +10745,7 @@ def process(obj):
 &lt;li&gt;&lt;strong&gt;多态&lt;/strong&gt;：不同对象调用同一方法，产生不同行为&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-</content:encoded></item><item><title>11.1 模块</title><link>https://mizuki.mysqil.com/posts/111-%E6%A8%A1%E5%9D%97/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/111-%E6%A8%A1%E5%9D%97/</guid><description>11.1 模块</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Python 模块（Module）学习笔记&lt;/h2&gt;
+</content:encoded></item><item><title>11.1 模块</title><link>https://yixi233-mo.github.io/notes/posts/111-%E6%A8%A1%E5%9D%97/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/111-%E6%A8%A1%E5%9D%97/</guid><description>11.1 模块</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Python 模块（Module）学习笔记&lt;/h2&gt;
 &lt;h3&gt;一、模块概述&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;模块（Module）&lt;/strong&gt; 是一个以 &lt;code&gt;.py&lt;/code&gt; 结尾的 Python 源文件，其中可以包含变量、函数、类等。&lt;/p&gt;
 &lt;table&gt;
@@ -11150,7 +11150,7 @@ help(模块)            # 查看模块帮助信息
 &lt;li&gt;&lt;strong&gt;最佳实践&lt;/strong&gt;：模块中的测试代码放在 &lt;code&gt;if __name__ == &quot;__main__&quot;:&lt;/code&gt; 下&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-</content:encoded></item><item><title>11.2 包</title><link>https://mizuki.mysqil.com/posts/112-%E5%8C%85/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/112-%E5%8C%85/</guid><description>11.2 包</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Python 包（Package）与标准库学习笔记&lt;/h2&gt;
+</content:encoded></item><item><title>11.2 包</title><link>https://yixi233-mo.github.io/notes/posts/112-%E5%8C%85/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/112-%E5%8C%85/</guid><description>11.2 包</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Python 包（Package）与标准库学习笔记&lt;/h2&gt;
 &lt;h3&gt;一、&lt;code&gt;dir()&lt;/code&gt; 函数&lt;/h3&gt;
 &lt;p&gt;&lt;code&gt;dir()&lt;/code&gt; 是 Python 内置函数，用于列出对象的属性和方法，或当前作用域中定义的名称。&lt;/p&gt;
 &lt;h4&gt;1.1 查看模块内容&lt;/h4&gt;
@@ -11731,7 +11731,7 @@ setup(
 &lt;li&gt;打包自己的库需要 &lt;code&gt;setup.py&lt;/code&gt; 和 &lt;code&gt;setuptools&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-</content:encoded></item><item><title>12.1 深拷贝&amp;浅拷贝</title><link>https://mizuki.mysqil.com/posts/121-%E6%B7%B1%E6%8B%B7%E8%B4%9D%E6%B5%85%E6%8B%B7%E8%B4%9D/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/121-%E6%B7%B1%E6%8B%B7%E8%B4%9D%E6%B5%85%E6%8B%B7%E8%B4%9D/</guid><description>12.1 深拷贝&amp;浅拷贝</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;一、拷贝概念对比&lt;/h3&gt;
+</content:encoded></item><item><title>12.1 深拷贝&amp;浅拷贝</title><link>https://yixi233-mo.github.io/notes/posts/121-%E6%B7%B1%E6%8B%B7%E8%B4%9D%E6%B5%85%E6%8B%B7%E8%B4%9D/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/121-%E6%B7%B1%E6%8B%B7%E8%B4%9D%E6%B5%85%E6%8B%B7%E8%B4%9D/</guid><description>12.1 深拷贝&amp;浅拷贝</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;一、拷贝概念对比&lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -12269,7 +12269,7 @@ print(t1 is t2)  # False（包含可变类型）
 &lt;li&gt;&lt;strong&gt;深拷贝元组&lt;/strong&gt;：只有包含可变类型时才新建&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-</content:encoded></item><item><title>12.2 迭代器、生成器与命名空间</title><link>https://mizuki.mysqil.com/posts/122-%E8%BF%AD%E4%BB%A3%E5%99%A8%E7%94%9F%E6%88%90%E5%99%A8%E4%B8%8E%E5%91%BD%E5%90%8D%E7%A9%BA%E9%97%B4/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/122-%E8%BF%AD%E4%BB%A3%E5%99%A8%E7%94%9F%E6%88%90%E5%99%A8%E4%B8%8E%E5%91%BD%E5%90%8D%E7%A9%BA%E9%97%B4/</guid><description>12.2 迭代器、生成器与命名空间</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;一、迭代器（Iterator）&lt;/h3&gt;
+</content:encoded></item><item><title>12.2 迭代器、生成器与命名空间</title><link>https://yixi233-mo.github.io/notes/posts/122-%E8%BF%AD%E4%BB%A3%E5%99%A8%E7%94%9F%E6%88%90%E5%99%A8%E4%B8%8E%E5%91%BD%E5%90%8D%E7%A9%BA%E9%97%B4/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/122-%E8%BF%AD%E4%BB%A3%E5%99%A8%E7%94%9F%E6%88%90%E5%99%A8%E4%B8%8E%E5%91%BD%E5%90%8D%E7%A9%BA%E9%97%B4/</guid><description>12.2 迭代器、生成器与命名空间</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;一、迭代器（Iterator）&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;迭代&lt;/strong&gt;是遍历容器中元素的一种方式，而&lt;strong&gt;迭代器&lt;/strong&gt;是一个可以记住遍历位置的对象。&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -12800,7 +12800,7 @@ locals()                    # 局部命名空间
 &lt;li&gt;&lt;strong&gt;查找顺序&lt;/strong&gt;：L → E → G → B（局部 → 嵌套 → 全局 → 内置）&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-</content:encoded></item><item><title>12.3 作用域、闭包与装饰器</title><link>https://mizuki.mysqil.com/posts/123-%E4%BD%9C%E7%94%A8%E5%9F%9F%E9%97%AD%E5%8C%85%E4%B8%8E%E8%A3%85%E9%A5%B0%E5%99%A8/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/123-%E4%BD%9C%E7%94%A8%E5%9F%9F%E9%97%AD%E5%8C%85%E4%B8%8E%E8%A3%85%E9%A5%B0%E5%99%A8/</guid><description>12.3 作用域、闭包与装饰器</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;一、作用域（Scope）&lt;/h3&gt;
+</content:encoded></item><item><title>12.3 作用域、闭包与装饰器</title><link>https://yixi233-mo.github.io/notes/posts/123-%E4%BD%9C%E7%94%A8%E5%9F%9F%E9%97%AD%E5%8C%85%E4%B8%8E%E8%A3%85%E9%A5%B0%E5%99%A8/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/123-%E4%BD%9C%E7%94%A8%E5%9F%9F%E9%97%AD%E5%8C%85%E4%B8%8E%E8%A3%85%E9%A5%B0%E5%99%A8/</guid><description>12.3 作用域、闭包与装饰器</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;一、作用域（Scope）&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;作用域&lt;/strong&gt;是Python代码中的一段文本区域，从这个区域可以直接访问该命名空间。&lt;/p&gt;
 &lt;h4&gt;1.1 四种作用域（LEGB规则）&lt;/h4&gt;
 &lt;table&gt;
@@ -13315,7 +13315,7 @@ def decorator(func):
 &lt;li&gt;&lt;code&gt;@wraps&lt;/code&gt;：保留原函数的元信息（名称、文档等）&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-</content:encoded></item><item><title>13.1 进程与线程</title><link>https://mizuki.mysqil.com/posts/131-%E8%BF%9B%E7%A8%8B%E4%B8%8E%E7%BA%BF%E7%A8%8B/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/131-%E8%BF%9B%E7%A8%8B%E4%B8%8E%E7%BA%BF%E7%A8%8B/</guid><description>13.1 进程与线程</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;一、并发与并行&lt;/h3&gt;
+</content:encoded></item><item><title>13.1 进程与线程</title><link>https://yixi233-mo.github.io/notes/posts/131-%E8%BF%9B%E7%A8%8B%E4%B8%8E%E7%BA%BF%E7%A8%8B/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/131-%E8%BF%9B%E7%A8%8B%E4%B8%8E%E7%BA%BF%E7%A8%8B/</guid><description>13.1 进程与线程</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;一、并发与并行&lt;/h3&gt;
 &lt;h4&gt;1.1 并发（Concurrency）&lt;/h4&gt;
 &lt;p&gt;&lt;strong&gt;并发&lt;/strong&gt;是指单个 CPU 处理多个任务，各个任务交替执行。&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;单个 CPU 处理多个任务：
@@ -13935,7 +13935,7 @@ asyncio.run(async_func())
 &lt;li&gt;&lt;strong&gt;队列（Queue）&lt;/strong&gt;：线程/进程间通信的常用方式&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-</content:encoded></item><item><title>13.2多进程（Multiprocessing）</title><link>https://mizuki.mysqil.com/posts/132%E5%A4%9A%E8%BF%9B%E7%A8%8Bmultiprocessing/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/132%E5%A4%9A%E8%BF%9B%E7%A8%8Bmultiprocessing/</guid><description>13.2多进程（Multiprocessing）</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;一、进程的基本概念&lt;/h3&gt;
+</content:encoded></item><item><title>13.2多进程（Multiprocessing）</title><link>https://yixi233-mo.github.io/notes/posts/132%E5%A4%9A%E8%BF%9B%E7%A8%8Bmultiprocessing/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/132%E5%A4%9A%E8%BF%9B%E7%A8%8Bmultiprocessing/</guid><description>13.2多进程（Multiprocessing）</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;一、进程的基本概念&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;进程&lt;/strong&gt;是操作系统进行资源分配的基本单位，是一个正在运行的程序或软件的实例。&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -14518,7 +14518,7 @@ os.getppid()   # 父进程 ID
 &lt;li&gt;进程池使用步骤：&lt;strong&gt;创建 → 提交任务 → close() → join()&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-</content:encoded></item><item><title>13.3 多线程（Multithreading）</title><link>https://mizuki.mysqil.com/posts/133-%E5%A4%9A%E7%BA%BF%E7%A8%8Bmultithreading/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/133-%E5%A4%9A%E7%BA%BF%E7%A8%8Bmultithreading/</guid><description>13.3 多线程（Multithreading）</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;一、线程的基本概念&lt;/h3&gt;
+</content:encoded></item><item><title>13.3 多线程（Multithreading）</title><link>https://yixi233-mo.github.io/notes/posts/133-%E5%A4%9A%E7%BA%BF%E7%A8%8Bmultithreading/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/133-%E5%A4%9A%E7%BA%BF%E7%A8%8Bmultithreading/</guid><description>13.3 多线程（Multithreading）</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;一、线程的基本概念&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;线程&lt;/strong&gt;是处理器任务调度和执行的基本单位，是进程内的一个执行单元。&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -15175,7 +15175,7 @@ c = threading.Condition(lock)  # 条件变量
 &lt;li&gt;线程池用 &lt;code&gt;ThreadPoolExecutor&lt;/code&gt;，配合 &lt;code&gt;with&lt;/code&gt; 语句使用&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-</content:encoded></item><item><title>14. 网络编程</title><link>https://mizuki.mysqil.com/posts/14-%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/14-%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/</guid><description>14. 网络编程</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;一、网络基础概念&lt;/h3&gt;
+</content:encoded></item><item><title>14. 网络编程</title><link>https://yixi233-mo.github.io/notes/posts/14-%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/14-%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/</guid><description>14. 网络编程</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;一、网络基础概念&lt;/h3&gt;
 &lt;h4&gt;1.1 网络编程三要素&lt;/h4&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -16052,7 +16052,7 @@ print(response.json())
 &lt;li&gt;&lt;strong&gt;状态码&lt;/strong&gt;：2xx 成功，3xx 重定向，4xx 客户端错误，5xx 服务器错误&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-</content:encoded></item><item><title>15. 正则表达式</title><link>https://mizuki.mysqil.com/posts/15-%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/15-%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/</guid><description>15. 正则表达式</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;一、什么是正则表达式&lt;/h3&gt;
+</content:encoded></item><item><title>15. 正则表达式</title><link>https://yixi233-mo.github.io/notes/posts/15-%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/15-%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/</guid><description>15. 正则表达式</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;一、什么是正则表达式&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;正则表达式（Regular Expression）&lt;/strong&gt; 是一种用于匹配和操作文本的强大工具，由一系列字符和特殊字符组成的模式，用于描述要匹配的文本模式。&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -16612,7 +16612,7 @@ pattern.findall(text)
 &lt;li&gt;&lt;strong&gt;分组捕获&lt;/strong&gt;用 &lt;code&gt;()&lt;/code&gt;，引用用 &lt;code&gt;\1&lt;/code&gt;、&lt;code&gt;\2&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-</content:encoded></item><item><title>1.计算机组成</title><link>https://mizuki.mysqil.com/posts/1%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/1%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90/</guid><description>1.计算机组成</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;ol&gt;
+</content:encoded></item><item><title>1.计算机组成</title><link>https://yixi233-mo.github.io/notes/posts/1%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/1%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90/</guid><description>1.计算机组成</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;什么是计算机&lt;/strong&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;计算机（computer）俗称电脑，是现代一种用于高速计算的电子计算机器，可以进行数值计算，又可以进行逻辑计算，还具有存储记忆功能。是能够按照**&amp;lt;font style=&quot;color:rgb(255,0,0);&quot;&amp;gt;程序&amp;lt;/font&amp;gt;**运行，自动、高速处理海量数据的现代化智能电子设备。由硬件系统和软件系统所组成，没有安装任何软件的计算机称为裸机。
@@ -16656,7 +16656,7 @@ pattern.findall(text)
 &lt;p&gt;&lt;strong&gt;（2）应用软件&lt;/strong&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;  应用软件可以细分的种类就更多了，如QQ、酷我、暴风、微信软件等都属于应用软件类。
 &lt;/code&gt;&lt;/pre&gt;
-</content:encoded></item><item><title>2.1变量与进制</title><link>https://mizuki.mysqil.com/posts/21%E5%8F%98%E9%87%8F%E4%B8%8E%E8%BF%9B%E5%88%B6/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/21%E5%8F%98%E9%87%8F%E4%B8%8E%E8%BF%9B%E5%88%B6/</guid><description>2.1变量与进制</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;📌 一、变量基础&lt;/h2&gt;
+</content:encoded></item><item><title>2.1变量与进制</title><link>https://yixi233-mo.github.io/notes/posts/21%E5%8F%98%E9%87%8F%E4%B8%8E%E8%BF%9B%E5%88%B6/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/21%E5%8F%98%E9%87%8F%E4%B8%8E%E8%BF%9B%E5%88%B6/</guid><description>2.1变量与进制</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;📌 一、变量基础&lt;/h2&gt;
 &lt;h3&gt;1.1 变量的本质&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;变量&lt;/strong&gt;：可以理解为可以赋给值的标签，指向特定的值&lt;/p&gt;
@@ -16852,7 +16852,7 @@ print(bin(0o777))     # 输出: 0b111111111
 │  变量命名：  小写_下划线                  │
 └─────────────────────────────────────────┘
 &lt;/code&gt;&lt;/pre&gt;
-</content:encoded></item><item><title>2.2数据类型</title><link>https://mizuki.mysqil.com/posts/22%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/22%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/</guid><description>2.2数据类型</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;一、核心概念：变量无类型，对象有类型&lt;/h3&gt;
+</content:encoded></item><item><title>2.2数据类型</title><link>https://yixi233-mo.github.io/notes/posts/22%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/22%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/</guid><description>2.2数据类型</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;一、核心概念：变量无类型，对象有类型&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;关键理解&lt;/strong&gt;：Python 变量本身没有类型，它只是指向内存中某个对象的&quot;标签&quot;。我们所说的&quot;类型&quot;是指变量所指向的对象 的类型。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -17330,7 +17330,7 @@ x == None    # 不推荐
 &lt;blockquote&gt;
 &lt;p&gt;📌 &lt;strong&gt;核心记忆&lt;/strong&gt;：变量是标签，对象有类型；类型分可变与不可变；浮点计算用 Decimal；空值判断用 is None。&lt;/p&gt;
 &lt;/blockquote&gt;
-</content:encoded></item><item><title>2.3字符编码与解码</title><link>https://mizuki.mysqil.com/posts/23%E5%AD%97%E7%AC%A6%E7%BC%96%E7%A0%81%E4%B8%8E%E8%A7%A3%E7%A0%81/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/23%E5%AD%97%E7%AC%A6%E7%BC%96%E7%A0%81%E4%B8%8E%E8%A7%A3%E7%A0%81/</guid><description>2.3字符编码与解码</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;一、基本概念&lt;/h3&gt;
+</content:encoded></item><item><title>2.3字符编码与解码</title><link>https://yixi233-mo.github.io/notes/posts/23%E5%AD%97%E7%AC%A6%E7%BC%96%E7%A0%81%E4%B8%8E%E8%A7%A3%E7%A0%81/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/23%E5%AD%97%E7%AC%A6%E7%BC%96%E7%A0%81%E4%B8%8E%E8%A7%A3%E7%A0%81/</guid><description>2.3字符编码与解码</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;一、基本概念&lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -17592,7 +17592,7 @@ len(bytes_data)
 &lt;li&gt;&lt;strong&gt;UTF-8&lt;/strong&gt; 是首选，中文占 &lt;strong&gt;3 字节&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-</content:encoded></item><item><title>3.输入与输出</title><link>https://mizuki.mysqil.com/posts/3%E8%BE%93%E5%85%A5%E4%B8%8E%E8%BE%93%E5%87%BA/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/3%E8%BE%93%E5%85%A5%E4%B8%8E%E8%BE%93%E5%87%BA/</guid><description>3.输入与输出</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;一、输入函数 input()&lt;/h3&gt;
+</content:encoded></item><item><title>3.输入与输出</title><link>https://yixi233-mo.github.io/notes/posts/3%E8%BE%93%E5%85%A5%E4%B8%8E%E8%BE%93%E5%87%BA/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/3%E8%BE%93%E5%85%A5%E4%B8%8E%E8%BE%93%E5%87%BA/</guid><description>3.输入与输出</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;一、输入函数 input()&lt;/h3&gt;
 &lt;h4&gt;基本语法&lt;/h4&gt;
 &lt;pre&gt;&lt;code&gt;变量 = input(&quot;提示信息&quot;)
 &lt;/code&gt;&lt;/pre&gt;
@@ -17957,7 +17957,7 @@ print(f&quot;{{花括号}}&quot;)       # 输出字面量 {}
 &lt;li&gt;&lt;strong&gt;f-string&lt;/strong&gt; 是最推荐的格式化方式，简洁又强大&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-</content:encoded></item><item><title>4.运算符</title><link>https://mizuki.mysqil.com/posts/4%E8%BF%90%E7%AE%97%E7%AC%A6/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/4%E8%BF%90%E7%AE%97%E7%AC%A6/</guid><description>4.运算符</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;一、算术运算符&lt;/h3&gt;
+</content:encoded></item><item><title>4.运算符</title><link>https://yixi233-mo.github.io/notes/posts/4%E8%BF%90%E7%AE%97%E7%AC%A6/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/4%E8%BF%90%E7%AE%97%E7%AC%A6/</guid><description>4.运算符</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;一、算术运算符&lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -18654,7 +18654,7 @@ if x is None: pass                 # None 判断规范
 &lt;li&gt;不确定优先级时&lt;strong&gt;加括号&lt;/strong&gt;最安全&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-</content:encoded></item><item><title>5.流程控制语句</title><link>https://mizuki.mysqil.com/posts/5%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AF%AD%E5%8F%A5/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/5%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AF%AD%E5%8F%A5/</guid><description>5.流程控制语句</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;一、流程控制概述&lt;/h3&gt;
+</content:encoded></item><item><title>5.流程控制语句</title><link>https://yixi233-mo.github.io/notes/posts/5%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AF%AD%E5%8F%A5/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/5%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AF%AD%E5%8F%A5/</guid><description>5.流程控制语句</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;一、流程控制概述&lt;/h3&gt;
 &lt;p&gt;流程控制用于控制计算机指令的执行顺序，Python 中的流程控制主要分为三种：&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -19200,7 +19200,7 @@ else:
 &lt;li&gt;循环 &lt;code&gt;else&lt;/code&gt; 仅在正常结束时执行，&lt;code&gt;break&lt;/code&gt; 会跳过&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-</content:encoded></item><item><title>6.1序列</title><link>https://mizuki.mysqil.com/posts/61%E5%BA%8F%E5%88%97/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/61%E5%BA%8F%E5%88%97/</guid><description>6.1序列</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Python 序列（Sequence）学习笔记&lt;/h2&gt;
+</content:encoded></item><item><title>6.1序列</title><link>https://yixi233-mo.github.io/notes/posts/61%E5%BA%8F%E5%88%97/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/61%E5%BA%8F%E5%88%97/</guid><description>6.1序列</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Python 序列（Sequence）学习笔记&lt;/h2&gt;
 &lt;h3&gt;一、什么是序列&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;序列（Sequence）&lt;/strong&gt; 是一种基本且核心的数据结构，它允许我们以&lt;strong&gt;有序&lt;/strong&gt;的方式存储和操作数据。&lt;/p&gt;
 &lt;table&gt;
@@ -19613,7 +19613,7 @@ if __name__ == &quot;__main__&quot;:
 &lt;li&gt;通用操作：索引、切片、相加、乘法、成员检查、长度、最大/最小值&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-</content:encoded></item><item><title>6.2 列表 List</title><link>https://mizuki.mysqil.com/posts/62-%E5%88%97%E8%A1%A8-list/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/62-%E5%88%97%E8%A1%A8-list/</guid><description>6.2 列表 List</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;一、列表概述&lt;/h3&gt;
+</content:encoded></item><item><title>6.2 列表 List</title><link>https://yixi233-mo.github.io/notes/posts/62-%E5%88%97%E8%A1%A8-list/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/62-%E5%88%97%E8%A1%A8-list/</guid><description>6.2 列表 List</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;一、列表概述&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;列表（List）&lt;/strong&gt; 是 Python 中最常用的序列类型，具有以下特点：&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -20190,7 +20190,7 @@ print(f&quot;\n优秀学生: {passing}&quot;)
 &lt;li&gt;复制嵌套列表用 &lt;code&gt;copy.deepcopy()&lt;/code&gt; 实现深拷贝&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-</content:encoded></item><item><title>6.3字符串（String）</title><link>https://mizuki.mysqil.com/posts/63%E5%AD%97%E7%AC%A6%E4%B8%B2string/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/63%E5%AD%97%E7%AC%A6%E4%B8%B2string/</guid><description>6.3字符串（String）</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;一、字符串概述&lt;/h3&gt;
+</content:encoded></item><item><title>6.3字符串（String）</title><link>https://yixi233-mo.github.io/notes/posts/63%E5%AD%97%E7%AC%A6%E4%B8%B2string/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/63%E5%AD%97%E7%AC%A6%E4%B8%B2string/</guid><description>6.3字符串（String）</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;一、字符串概述&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;字符串（String）&lt;/strong&gt; 是 Python 中表示文本数据的序列类型，具有以下特点：&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -20911,7 +20911,7 @@ for comment in comments:
 &lt;li&gt;字符串格式化推荐 &lt;strong&gt;f-string&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-</content:encoded></item><item><title>6.4 元组（tuple）</title><link>https://mizuki.mysqil.com/posts/64-%E5%85%83%E7%BB%84tuple/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/64-%E5%85%83%E7%BB%84tuple/</guid><description>6.4 元组（tuple）</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Python 元组（Tuple）学习笔记&lt;/h2&gt;
+</content:encoded></item><item><title>6.4 元组（tuple）</title><link>https://yixi233-mo.github.io/notes/posts/64-%E5%85%83%E7%BB%84tuple/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/64-%E5%85%83%E7%BB%84tuple/</guid><description>6.4 元组（tuple）</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Python 元组（Tuple）学习笔记&lt;/h2&gt;
 &lt;h3&gt;一、元组概述&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;元组（Tuple）&lt;/strong&gt; 是 Python 中另一种重要的序列类型，与列表非常相似，但有一个关键区别：&lt;/p&gt;
 &lt;table&gt;
@@ -21532,7 +21532,7 @@ print(f&quot;列表内存占用: {sys.getsizeof(l)} 字节&quot;)
 &lt;li&gt;列表与元组可互相转换：&lt;code&gt;list()&lt;/code&gt; 和 &lt;code&gt;tuple()&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-</content:encoded></item><item><title>6.5 集合 set</title><link>https://mizuki.mysqil.com/posts/65-%E9%9B%86%E5%90%88-set/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/65-%E9%9B%86%E5%90%88-set/</guid><description>6.5 集合 set</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Python 集合（Set）学习笔记&lt;/h2&gt;
+</content:encoded></item><item><title>6.5 集合 set</title><link>https://yixi233-mo.github.io/notes/posts/65-%E9%9B%86%E5%90%88-set/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/65-%E9%9B%86%E5%90%88-set/</guid><description>6.5 集合 set</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Python 集合（Set）学习笔记&lt;/h2&gt;
 &lt;h3&gt;一、集合概述&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;集合（Set）&lt;/strong&gt; 是 Python 中一种重要的无序集合数据类型，具有以下特点：&lt;/p&gt;
 &lt;table&gt;
@@ -22372,7 +22372,7 @@ print(f&quot;循环去重: {loop_time:.6f} 秒&quot;)
 &lt;li&gt;&lt;code&gt;frozenset&lt;/code&gt; 是不可变版本，可作为字典键或集合元素&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-</content:encoded></item><item><title>6.6 字典</title><link>https://mizuki.mysqil.com/posts/66-%E5%AD%97%E5%85%B8/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/66-%E5%AD%97%E5%85%B8/</guid><description>6.6 字典</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Python 字典（Dictionary）学习笔记&lt;/h2&gt;
+</content:encoded></item><item><title>6.6 字典</title><link>https://yixi233-mo.github.io/notes/posts/66-%E5%AD%97%E5%85%B8/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/66-%E5%AD%97%E5%85%B8/</guid><description>6.6 字典</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Python 字典（Dictionary）学习笔记&lt;/h2&gt;
 &lt;h3&gt;一、字典概述&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;字典（Dictionary）&lt;/strong&gt; 是 Python 中一种重要的键值对（key-value pair）数据结构，具有以下特点：&lt;/p&gt;
 &lt;table&gt;
@@ -23261,7 +23261,7 @@ print(d1 == d2)  # True（内容相同，顺序不影响）
 &lt;li&gt;适用于&lt;strong&gt;映射关系&lt;/strong&gt;、&lt;strong&gt;快速查找&lt;/strong&gt;、&lt;strong&gt;配置管理&lt;/strong&gt;、&lt;strong&gt;数据分组&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-</content:encoded></item><item><title>7. 函数</title><link>https://mizuki.mysqil.com/posts/7-%E5%87%BD%E6%95%B0/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/7-%E5%87%BD%E6%95%B0/</guid><description>7. 函数</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;一、函数的概念&lt;/h3&gt;
+</content:encoded></item><item><title>7. 函数</title><link>https://yixi233-mo.github.io/notes/posts/7-%E5%87%BD%E6%95%B0/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/7-%E5%87%BD%E6%95%B0/</guid><description>7. 函数</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;一、函数的概念&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;函数&lt;/strong&gt;是带名字的代码块，用于完成具体的任务，可以重复使用。&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -24143,7 +24143,7 @@ def add_item_safe(item, my_list=None):
 &lt;li&gt;默认参数避免使用&lt;strong&gt;可变对象&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-</content:encoded></item><item><title>8. 文件</title><link>https://mizuki.mysqil.com/posts/8-%E6%96%87%E4%BB%B6/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/8-%E6%96%87%E4%BB%B6/</guid><description>8. 文件</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Python 文件操作学习笔记&lt;/h2&gt;
+</content:encoded></item><item><title>8. 文件</title><link>https://yixi233-mo.github.io/notes/posts/8-%E6%96%87%E4%BB%B6/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/8-%E6%96%87%E4%BB%B6/</guid><description>8. 文件</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Python 文件操作学习笔记&lt;/h2&gt;
 &lt;h3&gt;一、文件的基本概念&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;文件&lt;/strong&gt;是存储在磁盘上的数据集合，可以是文本、图像、音频、视频或程序代码等。&lt;/p&gt;
 &lt;table&gt;
@@ -25065,7 +25065,7 @@ for root, dirs, files in os.walk(&quot;.&quot;):
 &lt;li&gt;二进制文件用 &lt;code&gt;&apos;rb&apos;&lt;/code&gt;/&lt;code&gt;&apos;wb&apos;&lt;/code&gt; 模式&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-</content:encoded></item><item><title>9. 面向对象之类和对象</title><link>https://mizuki.mysqil.com/posts/9-%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E4%B9%8B%E7%B1%BB%E5%92%8C%E5%AF%B9%E8%B1%A1/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/9-%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E4%B9%8B%E7%B1%BB%E5%92%8C%E5%AF%B9%E8%B1%A1/</guid><description>9. 面向对象之类和对象</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;一、面向过程 vs 面向对象&lt;/h3&gt;
+</content:encoded></item><item><title>9. 面向对象之类和对象</title><link>https://yixi233-mo.github.io/notes/posts/9-%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E4%B9%8B%E7%B1%BB%E5%92%8C%E5%AF%B9%E8%B1%A1/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/9-%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E4%B9%8B%E7%B1%BB%E5%92%8C%E5%AF%B9%E8%B1%A1/</guid><description>9. 面向对象之类和对象</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;一、面向过程 vs 面向对象&lt;/h3&gt;
 &lt;h4&gt;1.1 两种编程范式&lt;/h4&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -25876,7 +25876,7 @@ class Restricted:
 &lt;li&gt;&lt;code&gt;__slots__&lt;/code&gt; 可以限制实例属性，节省内存&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-</content:encoded></item><item><title>Markdown Extended Features</title><link>https://mizuki.mysqil.com/posts/markdown-extended/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/markdown-extended/</guid><description>Read more about Markdown features in Mizuki</description><pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;GitHub Repository Cards&lt;/h2&gt;
+</content:encoded></item><item><title>Markdown Extended Features</title><link>https://yixi233-mo.github.io/notes/posts/markdown-extended/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/markdown-extended/</guid><description>Read more about Markdown features in Mizuki</description><pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;GitHub Repository Cards&lt;/h2&gt;
 &lt;p&gt;You can add dynamic cards that link to GitHub repositories, on page load, the repository information is pulled from the GitHub API.&lt;/p&gt;
 &lt;p&gt;::github{repo=&quot;LyraVoid/Mizuki&quot;}&lt;/p&gt;
 &lt;p&gt;Create a GitHub repository card with the code &lt;code&gt;::github{repo=&quot;LyraVoid/Mizuki&quot;}&lt;/code&gt;.&lt;/p&gt;
@@ -25932,7 +25932,7 @@ This is a note with a custom title.
 &lt;p&gt;You can add spoilers to your text. The text also supports &lt;strong&gt;Markdown&lt;/strong&gt; syntax.&lt;/p&gt;
 &lt;p&gt;The content :spoiler[is hidden &lt;strong&gt;ayyy&lt;/strong&gt;]!&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;The content :spoiler[is hidden **ayyy**]!&lt;/code&gt;&lt;/pre&gt;
-</content:encoded></item><item><title>Simple Guides for Mizuki</title><link>https://mizuki.mysqil.com/posts/guide/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/guide/</guid><description>How to use this blog template.</description><pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This blog template is built with &lt;a href=&quot;https://astro.build/&quot;&gt;Astro&lt;/a&gt;. For the things that are not mentioned in this guide, you may find the answers in the &lt;a href=&quot;https://docs.astro.build/&quot;&gt;Astro Docs&lt;/a&gt;.&lt;/p&gt;
+</content:encoded></item><item><title>Simple Guides for Mizuki</title><link>https://yixi233-mo.github.io/notes/posts/guide/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/guide/</guid><description>How to use this blog template.</description><pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This blog template is built with &lt;a href=&quot;https://astro.build/&quot;&gt;Astro&lt;/a&gt;. For the things that are not mentioned in this guide, you may find the answers in the &lt;a href=&quot;https://docs.astro.build/&quot;&gt;Astro Docs&lt;/a&gt;.&lt;/p&gt;
 &lt;h2&gt;Front-matter of Posts&lt;/h2&gt;
 &lt;pre&gt;&lt;code&gt;---
 title: My First Blog Post
@@ -26010,7 +26010,7 @@ draft: false
     ├── cover.webp
     └── index.md
 &lt;/code&gt;&lt;/pre&gt;
-</content:encoded></item><item><title>Markdown Mermaid</title><link>https://mizuki.mysqil.com/posts/markdown-mermaid/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/markdown-mermaid/</guid><description>A simple example of a Markdown blog post with Mermaid.</description><pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Complete Guide to Markdown with Mermaid Diagrams&lt;/h1&gt;
+</content:encoded></item><item><title>Markdown Mermaid</title><link>https://yixi233-mo.github.io/notes/posts/markdown-mermaid/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/markdown-mermaid/</guid><description>A simple example of a Markdown blog post with Mermaid.</description><pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Complete Guide to Markdown with Mermaid Diagrams&lt;/h1&gt;
 &lt;p&gt;This article demonstrates how to create various complex diagrams using Mermaid in Markdown documents, including flowcharts, sequence diagrams, Gantt charts, class diagrams, and state diagrams.&lt;/p&gt;
 &lt;h2&gt;Flowchart Example&lt;/h2&gt;
 &lt;p&gt;Flowcharts are excellent for representing processes or algorithm steps.&lt;/p&gt;
@@ -26161,7 +26161,7 @@ draft: false
 &lt;p&gt;Mermaid is a powerful tool for creating various types of diagrams in Markdown documents. This article demonstrated how to use flowcharts, sequence diagrams, Gantt charts, class diagrams, state diagrams, and pie charts. These diagrams can help you express complex concepts, processes, and data structures more clearly.&lt;/p&gt;
 &lt;p&gt;To use Mermaid, simply specify the mermaid language in a code block and describe the diagram using concise text syntax. Mermaid will automatically convert these descriptions into beautiful visual diagrams.&lt;/p&gt;
 &lt;p&gt;Try using Mermaid diagrams in your next technical blog post or project documentation - they will make your content more professional and easier to understand!&lt;/p&gt;
-</content:encoded></item><item><title>Include Video in the Posts</title><link>https://mizuki.mysqil.com/posts/video/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/video/</guid><description>This post demonstrates how to include embedded video in a blog post.</description><pubDate>Mon, 01 Aug 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Just copy the embed code from YouTube or other platforms, and paste it in the markdown file.&lt;/p&gt;
+</content:encoded></item><item><title>Include Video in the Posts</title><link>https://yixi233-mo.github.io/notes/posts/video/</link><guid isPermaLink="true">https://yixi233-mo.github.io/notes/posts/video/</guid><description>This post demonstrates how to include embedded video in a blog post.</description><pubDate>Mon, 01 Aug 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Just copy the embed code from YouTube or other platforms, and paste it in the markdown file.&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;---
 title: Include Video in the Post
 published: 2023-10-19

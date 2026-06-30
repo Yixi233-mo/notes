@@ -3,4 +3,4 @@ Disallow: /
 Allow: /$
 Allow: /posts/
 
-Sitemap: https://mizuki.mysqil.com/sitemap-index.xml
+Sitemap: https://yixi233-mo.github.io/notes/sitemap-index.xml

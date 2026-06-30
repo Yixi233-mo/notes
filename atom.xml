@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Mizuki</title>
-  <subtitle>One demo website</subtitle>
-  <link href="https://mizuki.mysqil.com/" rel="alternate" type="text/html"/>
-  <link href="https://mizuki.mysqil.com/atom.xml" rel="self" type="application/atom+xml"/>
-  <id>https://mizuki.mysqil.com/</id>
-  <updated>2026-06-30T08:59:30.717Z</updated>
-  <language>en</language>
+  <title>屹兮の摸鱼 AI 日记</title>
+  <subtitle>今天模型又过拟合了，先摸个鱼再说</subtitle>
+  <link href="https://yixi233-mo.github.io/notes/" rel="alternate" type="text/html"/>
+  <link href="https://yixi233-mo.github.io/notes/atom.xml" rel="self" type="application/atom+xml"/>
+  <id>https://yixi233-mo.github.io/notes/</id>
+  <updated>2026-06-30T09:06:36.249Z</updated>
+  <language>zh_CN</language>
   <entry>
     <title>Markdown Tutorial</title>
-    <link href="https://mizuki.mysqil.com/posts/markdown-tutorial/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/markdown-tutorial/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/markdown-tutorial/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/markdown-tutorial/</id>
     <published>2025-01-20T00:00:00.000Z</published>
     <updated>2025-01-20T00:00:00.000Z</updated>
     <summary>A simple example of a Markdown blog post.</summary>
@@ -732,8 +732,8 @@ This is another regular paragraph.
   </entry>
   <entry>
     <title>📘 第10章：Python高级用法</title>
-    <link href="https://mizuki.mysqil.com/posts/-%E7%AC%AC10%E7%AB%A0python%E9%AB%98%E7%BA%A7%E7%94%A8%E6%B3%95/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/-%E7%AC%AC10%E7%AB%A0python%E9%AB%98%E7%BA%A7%E7%94%A8%E6%B3%95/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC10%E7%AB%A0python%E9%AB%98%E7%BA%A7%E7%94%A8%E6%B3%95/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC10%E7%AB%A0python%E9%AB%98%E7%BA%A7%E7%94%A8%E6%B3%95/</id>
     <published>2026-06-30T00:00:00.000Z</published>
     <updated>2026-06-30T00:00:00.000Z</updated>
     <summary>📘 第10章：Python高级用法</summary>
@@ -1439,8 +1439,8 @@ if __name__ == "__main__":
   </entry>
   <entry>
     <title>📘 第11章：进程与线程</title>
-    <link href="https://mizuki.mysqil.com/posts/-%E7%AC%AC11%E7%AB%A0%E8%BF%9B%E7%A8%8B%E4%B8%8E%E7%BA%BF%E7%A8%8B/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/-%E7%AC%AC11%E7%AB%A0%E8%BF%9B%E7%A8%8B%E4%B8%8E%E7%BA%BF%E7%A8%8B/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC11%E7%AB%A0%E8%BF%9B%E7%A8%8B%E4%B8%8E%E7%BA%BF%E7%A8%8B/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC11%E7%AB%A0%E8%BF%9B%E7%A8%8B%E4%B8%8E%E7%BA%BF%E7%A8%8B/</id>
     <published>2026-06-30T00:00:00.000Z</published>
     <updated>2026-06-30T00:00:00.000Z</updated>
     <summary>📘 第11章：进程与线程</summary>
@@ -2061,8 +2061,8 @@ if __name__ == "__main__":
   </entry>
   <entry>
     <title>📘 第12章：网络编程</title>
-    <link href="https://mizuki.mysqil.com/posts/-%E7%AC%AC12%E7%AB%A0%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/-%E7%AC%AC12%E7%AB%A0%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC12%E7%AB%A0%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC12%E7%AB%A0%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/</id>
     <published>2026-06-30T00:00:00.000Z</published>
     <updated>2026-06-30T00:00:00.000Z</updated>
     <summary>📘 第12章：网络编程</summary>
@@ -2812,8 +2812,8 @@ if __name__ == "__main__":
   </entry>
   <entry>
     <title>📘 第13章：正则表达式</title>
-    <link href="https://mizuki.mysqil.com/posts/-%E7%AC%AC13%E7%AB%A0%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/-%E7%AC%AC13%E7%AB%A0%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC13%E7%AB%A0%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC13%E7%AB%A0%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/</id>
     <published>2026-06-30T00:00:00.000Z</published>
     <updated>2026-06-30T00:00:00.000Z</updated>
     <summary>📘 第13章：正则表达式</summary>
@@ -3510,8 +3510,8 @@ if __name__ == "__main__":
   </entry>
   <entry>
     <title>📘 第1章：Python基础知识</title>
-    <link href="https://mizuki.mysqil.com/posts/-%E7%AC%AC1%E7%AB%A0python%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/-%E7%AC%AC1%E7%AB%A0python%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC1%E7%AB%A0python%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC1%E7%AB%A0python%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</id>
     <published>2026-06-30T00:00:00.000Z</published>
     <updated>2026-06-30T00:00:00.000Z</updated>
     <summary>📘 第1章：Python基础知识</summary>
@@ -4167,8 +4167,8 @@ if __name__ == "__main__":
   </entry>
   <entry>
     <title>📘 第2章：Python流程控制</title>
-    <link href="https://mizuki.mysqil.com/posts/-%E7%AC%AC2%E7%AB%A0python%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/-%E7%AC%AC2%E7%AB%A0python%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC2%E7%AB%A0python%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC2%E7%AB%A0python%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/</id>
     <published>2026-06-30T00:00:00.000Z</published>
     <updated>2026-06-30T00:00:00.000Z</updated>
     <summary>📘 第2章：Python流程控制</summary>
@@ -4827,8 +4827,8 @@ if __name__ == "__main__":
   </entry>
   <entry>
     <title>📘 第3章：容器数据类型</title>
-    <link href="https://mizuki.mysqil.com/posts/-%E7%AC%AC3%E7%AB%A0%E5%AE%B9%E5%99%A8%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/-%E7%AC%AC3%E7%AB%A0%E5%AE%B9%E5%99%A8%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC3%E7%AB%A0%E5%AE%B9%E5%99%A8%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC3%E7%AB%A0%E5%AE%B9%E5%99%A8%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/</id>
     <published>2026-06-30T00:00:00.000Z</published>
     <updated>2026-06-30T00:00:00.000Z</updated>
     <summary>📘 第3章：容器数据类型</summary>
@@ -5494,8 +5494,8 @@ if __name__ == "__main__":
   </entry>
   <entry>
     <title>📘 第4章：函数</title>
-    <link href="https://mizuki.mysqil.com/posts/-%E7%AC%AC4%E7%AB%A0%E5%87%BD%E6%95%B0/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/-%E7%AC%AC4%E7%AB%A0%E5%87%BD%E6%95%B0/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC4%E7%AB%A0%E5%87%BD%E6%95%B0/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC4%E7%AB%A0%E5%87%BD%E6%95%B0/</id>
     <published>2026-06-30T00:00:00.000Z</published>
     <updated>2026-06-30T00:00:00.000Z</updated>
     <summary>📘 第4章：函数</summary>
@@ -6096,8 +6096,8 @@ if __name__ == "__main__":
   </entry>
   <entry>
     <title>📘 第5章：文件操作</title>
-    <link href="https://mizuki.mysqil.com/posts/-%E7%AC%AC5%E7%AB%A0%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/-%E7%AC%AC5%E7%AB%A0%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC5%E7%AB%A0%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC5%E7%AB%A0%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C/</id>
     <published>2026-06-30T00:00:00.000Z</published>
     <updated>2026-06-30T00:00:00.000Z</updated>
     <summary>📘 第5章：文件操作</summary>
@@ -6762,8 +6762,8 @@ if __name__ == "__main__":
   </entry>
   <entry>
     <title>📘 第6章：面向对象之类和对象</title>
-    <link href="https://mizuki.mysqil.com/posts/-%E7%AC%AC6%E7%AB%A0%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E4%B9%8B%E7%B1%BB%E5%92%8C%E5%AF%B9%E8%B1%A1/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/-%E7%AC%AC6%E7%AB%A0%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E4%B9%8B%E7%B1%BB%E5%92%8C%E5%AF%B9%E8%B1%A1/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC6%E7%AB%A0%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E4%B9%8B%E7%B1%BB%E5%92%8C%E5%AF%B9%E8%B1%A1/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC6%E7%AB%A0%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E4%B9%8B%E7%B1%BB%E5%92%8C%E5%AF%B9%E8%B1%A1/</id>
     <published>2026-06-30T00:00:00.000Z</published>
     <updated>2026-06-30T00:00:00.000Z</updated>
     <summary>📘 第6章：面向对象之类和对象</summary>
@@ -7443,8 +7443,8 @@ if __name__ == "__main__":
   </entry>
   <entry>
     <title>📘 第7章：面向对象之三大特性</title>
-    <link href="https://mizuki.mysqil.com/posts/-%E7%AC%AC7%E7%AB%A0%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E4%B9%8B%E4%B8%89%E5%A4%A7%E7%89%B9%E6%80%A7/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/-%E7%AC%AC7%E7%AB%A0%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E4%B9%8B%E4%B8%89%E5%A4%A7%E7%89%B9%E6%80%A7/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC7%E7%AB%A0%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E4%B9%8B%E4%B8%89%E5%A4%A7%E7%89%B9%E6%80%A7/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC7%E7%AB%A0%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E4%B9%8B%E4%B8%89%E5%A4%A7%E7%89%B9%E6%80%A7/</id>
     <published>2026-06-30T00:00:00.000Z</published>
     <updated>2026-06-30T00:00:00.000Z</updated>
     <summary>📘 第7章：面向对象之三大特性</summary>
@@ -8189,8 +8189,8 @@ if __name__ == "__main__":
   </entry>
   <entry>
     <title>📘 第8章：错误与异常</title>
-    <link href="https://mizuki.mysqil.com/posts/-%E7%AC%AC8%E7%AB%A0%E9%94%99%E8%AF%AF%E4%B8%8E%E5%BC%82%E5%B8%B8/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/-%E7%AC%AC8%E7%AB%A0%E9%94%99%E8%AF%AF%E4%B8%8E%E5%BC%82%E5%B8%B8/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC8%E7%AB%A0%E9%94%99%E8%AF%AF%E4%B8%8E%E5%BC%82%E5%B8%B8/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC8%E7%AB%A0%E9%94%99%E8%AF%AF%E4%B8%8E%E5%BC%82%E5%B8%B8/</id>
     <published>2026-06-30T00:00:00.000Z</published>
     <updated>2026-06-30T00:00:00.000Z</updated>
     <summary>📘 第8章：错误与异常</summary>
@@ -8962,8 +8962,8 @@ if __name__ == "__main__":
   </entry>
   <entry>
     <title>📘 第9章：模块与包</title>
-    <link href="https://mizuki.mysqil.com/posts/-%E7%AC%AC9%E7%AB%A0%E6%A8%A1%E5%9D%97%E4%B8%8E%E5%8C%85/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/-%E7%AC%AC9%E7%AB%A0%E6%A8%A1%E5%9D%97%E4%B8%8E%E5%8C%85/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC9%E7%AB%A0%E6%A8%A1%E5%9D%97%E4%B8%8E%E5%8C%85/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/-%E7%AC%AC9%E7%AB%A0%E6%A8%A1%E5%9D%97%E4%B8%8E%E5%8C%85/</id>
     <published>2026-06-30T00:00:00.000Z</published>
     <updated>2026-06-30T00:00:00.000Z</updated>
     <summary>📘 第9章：模块与包</summary>
@@ -9821,8 +9821,8 @@ if __name__ == "__main__":
   </entry>
   <entry>
     <title>10.1封装</title>
-    <link href="https://mizuki.mysqil.com/posts/101%E5%B0%81%E8%A3%85/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/101%E5%B0%81%E8%A3%85/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/101%E5%B0%81%E8%A3%85/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/101%E5%B0%81%E8%A3%85/</id>
     <published>2026-06-30T00:00:00.000Z</published>
     <updated>2026-06-30T00:00:00.000Z</updated>
     <summary>10.1封装</summary>
@@ -10428,8 +10428,8 @@ class C(A, B): pass                  # 多继承
   </entry>
   <entry>
     <title>10.2 继承&多态</title>
-    <link href="https://mizuki.mysqil.com/posts/102-%E7%BB%A7%E6%89%BF%E5%A4%9A%E6%80%81/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/102-%E7%BB%A7%E6%89%BF%E5%A4%9A%E6%80%81/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/102-%E7%BB%A7%E6%89%BF%E5%A4%9A%E6%80%81/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/102-%E7%BB%A7%E6%89%BF%E5%A4%9A%E6%80%81/</id>
     <published>2026-06-30T00:00:00.000Z</published>
     <updated>2026-06-30T00:00:00.000Z</updated>
     <summary>10.2 继承&多态</summary>
@@ -10949,8 +10949,8 @@ def process(obj):
   </entry>
   <entry>
     <title>11.1 模块</title>
-    <link href="https://mizuki.mysqil.com/posts/111-%E6%A8%A1%E5%9D%97/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/111-%E6%A8%A1%E5%9D%97/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/111-%E6%A8%A1%E5%9D%97/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/111-%E6%A8%A1%E5%9D%97/</id>
     <published>2026-06-30T00:00:00.000Z</published>
     <updated>2026-06-30T00:00:00.000Z</updated>
     <summary>11.1 模块</summary>
@@ -11366,8 +11366,8 @@ help(模块)            # 查看模块帮助信息
   </entry>
   <entry>
     <title>11.2 包</title>
-    <link href="https://mizuki.mysqil.com/posts/112-%E5%8C%85/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/112-%E5%8C%85/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/112-%E5%8C%85/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/112-%E5%8C%85/</id>
     <published>2026-06-30T00:00:00.000Z</published>
     <updated>2026-06-30T00:00:00.000Z</updated>
     <summary>11.2 包</summary>
@@ -11959,8 +11959,8 @@ setup(
   </entry>
   <entry>
     <title>12.1 深拷贝&浅拷贝</title>
-    <link href="https://mizuki.mysqil.com/posts/121-%E6%B7%B1%E6%8B%B7%E8%B4%9D%E6%B5%85%E6%8B%B7%E8%B4%9D/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/121-%E6%B7%B1%E6%8B%B7%E8%B4%9D%E6%B5%85%E6%8B%B7%E8%B4%9D/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/121-%E6%B7%B1%E6%8B%B7%E8%B4%9D%E6%B5%85%E6%8B%B7%E8%B4%9D/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/121-%E6%B7%B1%E6%8B%B7%E8%B4%9D%E6%B5%85%E6%8B%B7%E8%B4%9D/</id>
     <published>2026-06-30T00:00:00.000Z</published>
     <updated>2026-06-30T00:00:00.000Z</updated>
     <summary>12.1 深拷贝&浅拷贝</summary>
@@ -12509,8 +12509,8 @@ print(t1 is t2)  # False（包含可变类型）
   </entry>
   <entry>
     <title>12.2 迭代器、生成器与命名空间</title>
-    <link href="https://mizuki.mysqil.com/posts/122-%E8%BF%AD%E4%BB%A3%E5%99%A8%E7%94%9F%E6%88%90%E5%99%A8%E4%B8%8E%E5%91%BD%E5%90%8D%E7%A9%BA%E9%97%B4/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/122-%E8%BF%AD%E4%BB%A3%E5%99%A8%E7%94%9F%E6%88%90%E5%99%A8%E4%B8%8E%E5%91%BD%E5%90%8D%E7%A9%BA%E9%97%B4/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/122-%E8%BF%AD%E4%BB%A3%E5%99%A8%E7%94%9F%E6%88%90%E5%99%A8%E4%B8%8E%E5%91%BD%E5%90%8D%E7%A9%BA%E9%97%B4/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/122-%E8%BF%AD%E4%BB%A3%E5%99%A8%E7%94%9F%E6%88%90%E5%99%A8%E4%B8%8E%E5%91%BD%E5%90%8D%E7%A9%BA%E9%97%B4/</id>
     <published>2026-06-30T00:00:00.000Z</published>
     <updated>2026-06-30T00:00:00.000Z</updated>
     <summary>12.2 迭代器、生成器与命名空间</summary>
@@ -13052,8 +13052,8 @@ locals()                    # 局部命名空间
   </entry>
   <entry>
     <title>12.3 作用域、闭包与装饰器</title>
-    <link href="https://mizuki.mysqil.com/posts/123-%E4%BD%9C%E7%94%A8%E5%9F%9F%E9%97%AD%E5%8C%85%E4%B8%8E%E8%A3%85%E9%A5%B0%E5%99%A8/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/123-%E4%BD%9C%E7%94%A8%E5%9F%9F%E9%97%AD%E5%8C%85%E4%B8%8E%E8%A3%85%E9%A5%B0%E5%99%A8/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/123-%E4%BD%9C%E7%94%A8%E5%9F%9F%E9%97%AD%E5%8C%85%E4%B8%8E%E8%A3%85%E9%A5%B0%E5%99%A8/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/123-%E4%BD%9C%E7%94%A8%E5%9F%9F%E9%97%AD%E5%8C%85%E4%B8%8E%E8%A3%85%E9%A5%B0%E5%99%A8/</id>
     <published>2026-06-30T00:00:00.000Z</published>
     <updated>2026-06-30T00:00:00.000Z</updated>
     <summary>12.3 作用域、闭包与装饰器</summary>
@@ -13579,8 +13579,8 @@ def decorator(func):
   </entry>
   <entry>
     <title>13.1 进程与线程</title>
-    <link href="https://mizuki.mysqil.com/posts/131-%E8%BF%9B%E7%A8%8B%E4%B8%8E%E7%BA%BF%E7%A8%8B/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/131-%E8%BF%9B%E7%A8%8B%E4%B8%8E%E7%BA%BF%E7%A8%8B/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/131-%E8%BF%9B%E7%A8%8B%E4%B8%8E%E7%BA%BF%E7%A8%8B/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/131-%E8%BF%9B%E7%A8%8B%E4%B8%8E%E7%BA%BF%E7%A8%8B/</id>
     <published>2026-06-30T00:00:00.000Z</published>
     <updated>2026-06-30T00:00:00.000Z</updated>
     <summary>13.1 进程与线程</summary>
@@ -14211,8 +14211,8 @@ asyncio.run(async_func())
   </entry>
   <entry>
     <title>13.2多进程（Multiprocessing）</title>
-    <link href="https://mizuki.mysqil.com/posts/132%E5%A4%9A%E8%BF%9B%E7%A8%8Bmultiprocessing/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/132%E5%A4%9A%E8%BF%9B%E7%A8%8Bmultiprocessing/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/132%E5%A4%9A%E8%BF%9B%E7%A8%8Bmultiprocessing/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/132%E5%A4%9A%E8%BF%9B%E7%A8%8Bmultiprocessing/</id>
     <published>2026-06-30T00:00:00.000Z</published>
     <updated>2026-06-30T00:00:00.000Z</updated>
     <summary>13.2多进程（Multiprocessing）</summary>
@@ -14806,8 +14806,8 @@ os.getppid()   # 父进程 ID
   </entry>
   <entry>
     <title>13.3 多线程（Multithreading）</title>
-    <link href="https://mizuki.mysqil.com/posts/133-%E5%A4%9A%E7%BA%BF%E7%A8%8Bmultithreading/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/133-%E5%A4%9A%E7%BA%BF%E7%A8%8Bmultithreading/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/133-%E5%A4%9A%E7%BA%BF%E7%A8%8Bmultithreading/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/133-%E5%A4%9A%E7%BA%BF%E7%A8%8Bmultithreading/</id>
     <published>2026-06-30T00:00:00.000Z</published>
     <updated>2026-06-30T00:00:00.000Z</updated>
     <summary>13.3 多线程（Multithreading）</summary>
@@ -15475,8 +15475,8 @@ c = threading.Condition(lock)  # 条件变量
   </entry>
   <entry>
     <title>14. 网络编程</title>
-    <link href="https://mizuki.mysqil.com/posts/14-%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/14-%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/14-%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/14-%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/</id>
     <published>2026-06-30T00:00:00.000Z</published>
     <updated>2026-06-30T00:00:00.000Z</updated>
     <summary>14. 网络编程</summary>
@@ -16364,8 +16364,8 @@ print(response.json())
   </entry>
   <entry>
     <title>15. 正则表达式</title>
-    <link href="https://mizuki.mysqil.com/posts/15-%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/15-%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/15-%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/15-%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/</id>
     <published>2026-06-30T00:00:00.000Z</published>
     <updated>2026-06-30T00:00:00.000Z</updated>
     <summary>15. 正则表达式</summary>
@@ -16936,8 +16936,8 @@ pattern.findall(text)
   </entry>
   <entry>
     <title>1.计算机组成</title>
-    <link href="https://mizuki.mysqil.com/posts/1%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/1%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/1%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/1%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90/</id>
     <published>2026-06-30T00:00:00.000Z</published>
     <updated>2026-06-30T00:00:00.000Z</updated>
     <summary>1.计算机组成</summary>
@@ -16992,8 +16992,8 @@ pattern.findall(text)
   </entry>
   <entry>
     <title>2.1变量与进制</title>
-    <link href="https://mizuki.mysqil.com/posts/21%E5%8F%98%E9%87%8F%E4%B8%8E%E8%BF%9B%E5%88%B6/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/21%E5%8F%98%E9%87%8F%E4%B8%8E%E8%BF%9B%E5%88%B6/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/21%E5%8F%98%E9%87%8F%E4%B8%8E%E8%BF%9B%E5%88%B6/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/21%E5%8F%98%E9%87%8F%E4%B8%8E%E8%BF%9B%E5%88%B6/</id>
     <published>2026-06-30T00:00:00.000Z</published>
     <updated>2026-06-30T00:00:00.000Z</updated>
     <summary>2.1变量与进制</summary>
@@ -17200,8 +17200,8 @@ print(bin(0o777))     # 输出: 0b111111111
   </entry>
   <entry>
     <title>2.2数据类型</title>
-    <link href="https://mizuki.mysqil.com/posts/22%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/22%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/22%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/22%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/</id>
     <published>2026-06-30T00:00:00.000Z</published>
     <updated>2026-06-30T00:00:00.000Z</updated>
     <summary>2.2数据类型</summary>
@@ -17690,8 +17690,8 @@ x == None    # 不推荐
   </entry>
   <entry>
     <title>2.3字符编码与解码</title>
-    <link href="https://mizuki.mysqil.com/posts/23%E5%AD%97%E7%AC%A6%E7%BC%96%E7%A0%81%E4%B8%8E%E8%A7%A3%E7%A0%81/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/23%E5%AD%97%E7%AC%A6%E7%BC%96%E7%A0%81%E4%B8%8E%E8%A7%A3%E7%A0%81/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/23%E5%AD%97%E7%AC%A6%E7%BC%96%E7%A0%81%E4%B8%8E%E8%A7%A3%E7%A0%81/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/23%E5%AD%97%E7%AC%A6%E7%BC%96%E7%A0%81%E4%B8%8E%E8%A7%A3%E7%A0%81/</id>
     <published>2026-06-30T00:00:00.000Z</published>
     <updated>2026-06-30T00:00:00.000Z</updated>
     <summary>2.3字符编码与解码</summary>
@@ -17964,8 +17964,8 @@ len(bytes_data)
   </entry>
   <entry>
     <title>3.输入与输出</title>
-    <link href="https://mizuki.mysqil.com/posts/3%E8%BE%93%E5%85%A5%E4%B8%8E%E8%BE%93%E5%87%BA/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/3%E8%BE%93%E5%85%A5%E4%B8%8E%E8%BE%93%E5%87%BA/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/3%E8%BE%93%E5%85%A5%E4%B8%8E%E8%BE%93%E5%87%BA/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/3%E8%BE%93%E5%85%A5%E4%B8%8E%E8%BE%93%E5%87%BA/</id>
     <published>2026-06-30T00:00:00.000Z</published>
     <updated>2026-06-30T00:00:00.000Z</updated>
     <summary>3.输入与输出</summary>
@@ -18341,8 +18341,8 @@ print(f"{{花括号}}")       # 输出字面量 {}
   </entry>
   <entry>
     <title>4.运算符</title>
-    <link href="https://mizuki.mysqil.com/posts/4%E8%BF%90%E7%AE%97%E7%AC%A6/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/4%E8%BF%90%E7%AE%97%E7%AC%A6/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/4%E8%BF%90%E7%AE%97%E7%AC%A6/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/4%E8%BF%90%E7%AE%97%E7%AC%A6/</id>
     <published>2026-06-30T00:00:00.000Z</published>
     <updated>2026-06-30T00:00:00.000Z</updated>
     <summary>4.运算符</summary>
@@ -19050,8 +19050,8 @@ if x is None: pass                 # None 判断规范
   </entry>
   <entry>
     <title>5.流程控制语句</title>
-    <link href="https://mizuki.mysqil.com/posts/5%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AF%AD%E5%8F%A5/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/5%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AF%AD%E5%8F%A5/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/5%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AF%AD%E5%8F%A5/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/5%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AF%AD%E5%8F%A5/</id>
     <published>2026-06-30T00:00:00.000Z</published>
     <updated>2026-06-30T00:00:00.000Z</updated>
     <summary>5.流程控制语句</summary>
@@ -19608,8 +19608,8 @@ else:
   </entry>
   <entry>
     <title>6.1序列</title>
-    <link href="https://mizuki.mysqil.com/posts/61%E5%BA%8F%E5%88%97/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/61%E5%BA%8F%E5%88%97/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/61%E5%BA%8F%E5%88%97/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/61%E5%BA%8F%E5%88%97/</id>
     <published>2026-06-30T00:00:00.000Z</published>
     <updated>2026-06-30T00:00:00.000Z</updated>
     <summary>6.1序列</summary>
@@ -20033,8 +20033,8 @@ if __name__ == "__main__":
   </entry>
   <entry>
     <title>6.2 列表 List</title>
-    <link href="https://mizuki.mysqil.com/posts/62-%E5%88%97%E8%A1%A8-list/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/62-%E5%88%97%E8%A1%A8-list/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/62-%E5%88%97%E8%A1%A8-list/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/62-%E5%88%97%E8%A1%A8-list/</id>
     <published>2026-06-30T00:00:00.000Z</published>
     <updated>2026-06-30T00:00:00.000Z</updated>
     <summary>6.2 列表 List</summary>
@@ -20622,8 +20622,8 @@ print(f"\n优秀学生: {passing}")
   </entry>
   <entry>
     <title>6.3字符串（String）</title>
-    <link href="https://mizuki.mysqil.com/posts/63%E5%AD%97%E7%AC%A6%E4%B8%B2string/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/63%E5%AD%97%E7%AC%A6%E4%B8%B2string/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/63%E5%AD%97%E7%AC%A6%E4%B8%B2string/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/63%E5%AD%97%E7%AC%A6%E4%B8%B2string/</id>
     <published>2026-06-30T00:00:00.000Z</published>
     <updated>2026-06-30T00:00:00.000Z</updated>
     <summary>6.3字符串（String）</summary>
@@ -21355,8 +21355,8 @@ for comment in comments:
   </entry>
   <entry>
     <title>6.4 元组（tuple）</title>
-    <link href="https://mizuki.mysqil.com/posts/64-%E5%85%83%E7%BB%84tuple/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/64-%E5%85%83%E7%BB%84tuple/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/64-%E5%85%83%E7%BB%84tuple/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/64-%E5%85%83%E7%BB%84tuple/</id>
     <published>2026-06-30T00:00:00.000Z</published>
     <updated>2026-06-30T00:00:00.000Z</updated>
     <summary>6.4 元组（tuple）</summary>
@@ -21988,8 +21988,8 @@ print(f"列表内存占用: {sys.getsizeof(l)} 字节")
   </entry>
   <entry>
     <title>6.5 集合 set</title>
-    <link href="https://mizuki.mysqil.com/posts/65-%E9%9B%86%E5%90%88-set/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/65-%E9%9B%86%E5%90%88-set/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/65-%E9%9B%86%E5%90%88-set/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/65-%E9%9B%86%E5%90%88-set/</id>
     <published>2026-06-30T00:00:00.000Z</published>
     <updated>2026-06-30T00:00:00.000Z</updated>
     <summary>6.5 集合 set</summary>
@@ -22840,8 +22840,8 @@ print(f"循环去重: {loop_time:.6f} 秒")
   </entry>
   <entry>
     <title>6.6 字典</title>
-    <link href="https://mizuki.mysqil.com/posts/66-%E5%AD%97%E5%85%B8/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/66-%E5%AD%97%E5%85%B8/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/66-%E5%AD%97%E5%85%B8/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/66-%E5%AD%97%E5%85%B8/</id>
     <published>2026-06-30T00:00:00.000Z</published>
     <updated>2026-06-30T00:00:00.000Z</updated>
     <summary>6.6 字典</summary>
@@ -23741,8 +23741,8 @@ print(d1 == d2)  # True（内容相同，顺序不影响）
   </entry>
   <entry>
     <title>7. 函数</title>
-    <link href="https://mizuki.mysqil.com/posts/7-%E5%87%BD%E6%95%B0/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/7-%E5%87%BD%E6%95%B0/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/7-%E5%87%BD%E6%95%B0/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/7-%E5%87%BD%E6%95%B0/</id>
     <published>2026-06-30T00:00:00.000Z</published>
     <updated>2026-06-30T00:00:00.000Z</updated>
     <summary>7. 函数</summary>
@@ -24635,8 +24635,8 @@ def add_item_safe(item, my_list=None):
   </entry>
   <entry>
     <title>8. 文件</title>
-    <link href="https://mizuki.mysqil.com/posts/8-%E6%96%87%E4%BB%B6/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/8-%E6%96%87%E4%BB%B6/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/8-%E6%96%87%E4%BB%B6/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/8-%E6%96%87%E4%BB%B6/</id>
     <published>2026-06-30T00:00:00.000Z</published>
     <updated>2026-06-30T00:00:00.000Z</updated>
     <summary>8. 文件</summary>
@@ -25569,8 +25569,8 @@ for root, dirs, files in os.walk("."):
   </entry>
   <entry>
     <title>9. 面向对象之类和对象</title>
-    <link href="https://mizuki.mysqil.com/posts/9-%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E4%B9%8B%E7%B1%BB%E5%92%8C%E5%AF%B9%E8%B1%A1/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/9-%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E4%B9%8B%E7%B1%BB%E5%92%8C%E5%AF%B9%E8%B1%A1/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/9-%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E4%B9%8B%E7%B1%BB%E5%92%8C%E5%AF%B9%E8%B1%A1/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/9-%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E4%B9%8B%E7%B1%BB%E5%92%8C%E5%AF%B9%E8%B1%A1/</id>
     <published>2026-06-30T00:00:00.000Z</published>
     <updated>2026-06-30T00:00:00.000Z</updated>
     <summary>9. 面向对象之类和对象</summary>
@@ -26392,8 +26392,8 @@ class Restricted:
   </entry>
   <entry>
     <title>Markdown Extended Features</title>
-    <link href="https://mizuki.mysqil.com/posts/markdown-extended/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/markdown-extended/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/markdown-extended/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/markdown-extended/</id>
     <published>2024-05-01T00:00:00.000Z</published>
     <updated>2024-11-29T00:00:00.000Z</updated>
     <summary>Read more about Markdown features in Mizuki</summary>
@@ -26461,8 +26461,8 @@ This is a note with a custom title.
   </entry>
   <entry>
     <title>Simple Guides for Mizuki</title>
-    <link href="https://mizuki.mysqil.com/posts/guide/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/guide/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/guide/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/guide/</id>
     <published>2024-04-01T00:00:00.000Z</published>
     <updated>2024-04-01T00:00:00.000Z</updated>
     <summary>How to use this blog template.</summary>
@@ -26552,8 +26552,8 @@ draft: false
   </entry>
   <entry>
     <title>Markdown Mermaid</title>
-    <link href="https://mizuki.mysqil.com/posts/markdown-mermaid/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/markdown-mermaid/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/markdown-mermaid/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/markdown-mermaid/</id>
     <published>2023-10-01T00:00:00.000Z</published>
     <updated>2023-10-01T00:00:00.000Z</updated>
     <summary>A simple example of a Markdown blog post with Mermaid.</summary>
@@ -26716,8 +26716,8 @@ draft: false
   </entry>
   <entry>
     <title>Include Video in the Posts</title>
-    <link href="https://mizuki.mysqil.com/posts/video/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/video/</id>
+    <link href="https://yixi233-mo.github.io/notes/posts/video/" rel="alternate" type="text/html"/>
+    <id>https://yixi233-mo.github.io/notes/posts/video/</id>
     <published>2022-08-01T00:00:00.000Z</published>
     <updated>2022-08-01T00:00:00.000Z</updated>
     <summary>This post demonstrates how to include embedded video in a blog post.</summary>
